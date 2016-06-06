@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structllog__unlink64__rec.html" title="{llog_unlink64_rec\n|+ lur_hdr\l+ lur_fid\l+ lur_count\l+ lur_padding1\l+ lur_padding2\l+ lur_padding3\l+ lur_tail\l|}" alt="" coords="135,1092,268,1281"/>
+<area shape="rect" id="node4" href="$structllog__rec__tail.html" title="{llog_rec_tail\n|+ lrt_len\l+ lrt_index\l|}" alt="" coords="292,602,393,705"/>
+<area shape="rect" id="node10" href="$structllog__setattr64__rec.html" title="{llog_setattr64_rec\n|+ lsr_hdr\l+ lsr_oi\l+ lsr_uid\l+ lsr_uid_h\l+ lsr_gid\l+ lsr_gid_h\l+ lsr_valid\l+ lsr_tail\l|}" alt="" coords="447,1083,593,1290"/>
+<area shape="rect" id="node19" href="$structllog__gen__rec.html" title="{llog_gen_rec\n|+ lgr_hdr\l+ lgr_gen\l+ padding1\l+ padding2\l+ padding3\l+ lgr_tail\l|}" alt="" coords="304,1101,408,1273"/>
+<area shape="rect" id="node6" href="$structlu__fid.html" title="File IDentifier." alt="" coords="31,5,103,125"/>
+<area shape="rect" id="node14" href="$structost__id.html" title="OST object IDentifier." alt="" coords="753,192,831,347"/>
+<area shape="rect" id="node8" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="456,585,557,722"/>
+<area shape="rect" id="node30" href="$structllog__logid.html" title="Identifier for a single log object." alt="" coords="1059,414,1149,517"/>
+<area shape="rect" id="node38" href="$structobdo.html" title="{obdo\n|+ o_valid\l+ o_oi\l+ o_parent_seq\l+ o_size\l+ o_mtime\l+ o_atime\l+ o_ctime\l+ o_blocks\l+ o_grant\l+ o_blksize\l+ o_mode\l+ o_uid\l+ o_gid\l+ o_flags\l+ o_nlink\l+ o_parent_oid\l+ o_misc\l+ o_ioepoch\l+ o_stripe_idx\l+ o_parent_ver\l+ o_handle\l+ o_lcookie\l+ o_uid_h\l+ o_gid_h\l+ o_data_version\l+ o_padding_4\l+ o_padding_5\l+ o_padding_6\l|}" alt="" coords="885,910,1021,1463"/>
+<area shape="rect" id="node17" href="$structlu__attr.html" title="Common object attributes." alt="" coords="712,1031,811,1342"/>
+<area shape="rect" id="node22" href="$structllog__gen.html" title="{llog_gen\n|+ mnt_cnt\l+ conn_cnt\l|}" alt="" coords="104,602,203,705"/>
+<area shape="rect" id="node28" href="$structllog__catid.html" title="{llog_catid\n|+ lci_logid\l+ lci_padding1\l+ lci_padding2\l+ lci_padding3\l|}" alt="" coords="1211,747,1325,885"/>
+<area shape="rect" id="node33" href="$structllog__cookie.html" title="log cookies are used to reference a specific log file and a record therein" alt="" coords="1048,585,1160,722"/>
+<area shape="rect" id="node36" href="$structlu__buf.html" title="Common buffer structure to be passed around for various xattr_{s,g}et() methods." alt="" coords="1163,1135,1237,1238"/>
+<area shape="rect" id="node42" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="912,611,1024,696"/>
+<area shape="rect" id="node44" href="$structlu__seq__range.html" title="Describes a range of sequence, lsr_start is included but lsr_end is not in the range..." alt="" coords="1355,1118,1464,1255"/>
+<area shape="rect" id="node46" href="$structldlm__res__id.html" title="{ldlm_res_id\n|+ name\l|}" alt="" coords="1488,1144,1581,1229"/>
+</map>

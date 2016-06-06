@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__io.html#gae609957e435aaa7c3044b45cada6b96c" title="Submits a list of pages for immediate io." alt="" coords="215,5,340,35"/>
+<area shape="rect" id="node5" href="$group__cl__page__list.html#ga321527c28a251fead1c4d8e7967da693" title="Assumes all pages in a queue." alt="" coords="199,59,356,88"/>
+<area shape="rect" id="node11" href="$group__cl__sync__io.html#ga9e4705c43e9207a09c6cd8c9fac1c3e5" title="Initialize synchronous io wait anchor." alt="" coords="219,112,336,141"/>
+<area shape="rect" id="node13" href="$group__cl__sync__io.html#gadb134aa2c1fb3f510bb8fe2a6da02bb9" title="Indicate that transfer of a single page completed." alt="" coords="213,165,341,195"/>
+<area shape="rect" id="node15" href="$group__cl__sync__io.html#ga92057d29f315080be03e18c0262a1871" title="Wait until all IO completes." alt="" coords="215,219,340,248"/>
+<area shape="rect" id="node7" href="$group__cl__page.html#ga77a2e8592e58cc9c514cb4ac38a9d2f4" title="Assume page ownership." alt="" coords="407,59,537,88"/>
+<area shape="rect" id="node9" href="$group__cl__io.html#ga4bb065eb52291173dbda9a0721b1ea2c" title="Returns top&#45;level io." alt="" coords="588,59,668,88"/>
+</map>

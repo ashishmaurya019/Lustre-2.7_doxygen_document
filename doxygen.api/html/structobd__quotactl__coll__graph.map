@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structobd__dqinfo.html" title="{obd_dqinfo\n|+ dqi_bgrace\l+ dqi_igrace\l+ dqi_flags\l+ dqi_valid\l|}" alt="" coords="5,58,112,195"/>
+<area shape="rect" id="node4" href="$structobd__dqblk.html" title="{obd_dqblk\n|+ dqb_bhardlimit\l+ dqb_bsoftlimit\l+ dqb_curspace\l+ dqb_ihardlimit\l+ dqb_isoftlimit\l+ dqb_curinodes\l+ dqb_btime\l+ dqb_itime\l+ dqb_valid\l+ dqb_padding\l|}" alt="" coords="136,6,269,247"/>
+</map>

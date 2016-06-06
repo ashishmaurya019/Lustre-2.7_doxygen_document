@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsptlrpc__rule__set.html" title="A set of rules in memory." alt="" coords="15,600,145,720"/>
+<area shape="rect" id="node4" href="$structsptlrpc__rule.html" title="A rule specifies a flavor to be used by a ptlrpc connection between two Lustre parts..." alt="" coords="27,379,133,533"/>
+<area shape="rect" id="node6" href="$structsptlrpc__flavor.html" title="Full description of flavors being used on a ptlrpc connection, include both regular..." alt="" coords="24,157,136,312"/>
+<area shape="rect" id="node8" href="$structbulk__spec__hash.html" title="{bulk_spec_hash\n|+ hash_alg\l|}" alt="" coords="17,5,143,91"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,158,88,261"/>
+<area shape="rect" id="node5" href="$structlstcon__tsb__hdr.html" title="{lstcon_tsb_hdr\n|+ tsb_id\l+ tsb_index\l|}" alt="" coords="169,158,289,261"/>
+<area shape="rect" id="node7" href="$structlst__bid__t.html" title="{lst_bid_t\n|+ bat_id\l|}" alt="" coords="191,5,268,91"/>
+</map>

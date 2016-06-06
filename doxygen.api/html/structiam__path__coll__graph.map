@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$structiam__leaf.html" title="{iam_leaf\n|+ il_path\l+ il_bh\l+ il_entries\l+ il_at\l+ il_lock\l+ il_curidx\l+ il_descr_data\l|}" alt="" coords="313,1720,436,1909"/>
+<area shape="rect" id="node2" href="$structiam__frame.html" title="{iam_frame\n|+ bh\l+ entries\l+ at\l+ leaf\l+ curidx\l+ at_shifted\l|}" alt="" coords="213,1173,317,1345"/>
+<area shape="rect" id="node7" href="$structdynlock__handle.html" title="{dynlock_handle\n|+ dh_magic\l+ dh_list\l+ dh_value\l+ dh_refcount\l+ dh_readers\l+ dh_writers\l+ dh_pid\l+ dh_wait\l|}" alt="" coords="504,923,627,1130"/>
+<area shape="rect" id="node9" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="496,339,579,442"/>
+<area shape="rect" id="node22" href="$structdynlock.html" title="{dynlock\n|+ dl_magic\l+ dl_list\l+ dl_list_lock\l|}" alt="" coords="428,735,535,855"/>
+<area shape="rect" id="node12" href="$structiam__container.html" title="{iam_container\n|+ ic_object\l+ ic_root_bh\l+ ic_descr\l+ ic_sem\l+ ic_tree_lock\l+ ic_idle_mutex\l+ ic_idle_bh\l+ ic_idle_failed\l|}" alt="" coords="61,1155,189,1362"/>
+<area shape="rect" id="node14" href="$structiam__descr.html" title="{iam_descr\n|+ id_key_size\l+ id_ikey_size\l+ id_ptr_size\l+ id_rec_size\l+ id_node_gap\l+ id_root_gap\l+ id_ops\l+ id_leaf_ops\l|}" alt="" coords="67,691,184,898"/>
+<area shape="rect" id="node16" href="$structiam__leaf__operations.html" title="{iam_leaf_operations\n|+ init\l+ init_new\l+ fini\l+ at_end\l+ start\l+ next\l+ ikey\l+ key\l+ rec\l+ key_set\l+ rec_set\l+ rec_get\l+ key_cmp\l+ key_eq\l+ rec_eq\l+ key_size\l+ lookup\l+ ilookup\l+ can_add\l+ rec_add\l+ rec_del\l+ split\l+ leaf_empty\l|}" alt="" coords="163,157,317,624"/>
+<area shape="rect" id="node18" href="$structiam__operations.html" title="{iam_operations\n|+ id_root_ptr\l+ id_node_check\l+ id_node_load\l+ id_node_init\l+ id_node_read\l+ id_ikeycmp\l+ id_root_inc\l+ id_ipd_alloc\l+ id_ipd_free\l+ id_name\l|}" alt="" coords="5,270,139,511"/>
+<area shape="rect" id="node20" href="$structiam__path__descr.html" title="{iam_path_descr\n|+ ipd_key_scratch\l|}" alt="" coords="188,5,332,91"/>
+</map>

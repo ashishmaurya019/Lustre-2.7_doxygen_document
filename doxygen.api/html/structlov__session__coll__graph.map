@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlov__io.html" title="IO state private for LOV." alt="" coords="2598,5304,2776,5597"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="2290,14,2372,117"/>
+<area shape="rect" id="node7" href="$structcl__io.html" title="State for io." alt="" coords="2222,2417,2384,3421"/>
+<area shape="rect" id="node14" href="$structlu__object.html" title="Layer in the layered object." alt="" coords="1026,1061,1130,1216"/>
+<area shape="rect" id="node21" href="$structlu__object__header.html" title="&quot;Compound&quot; object, consisting of multiple layers." alt="" coords="608,217,747,423"/>
+<area shape="rect" id="node31" href="$structlu__device.html" title="Device: a layer in the server side abstraction stacking." alt="" coords="1039,2815,1164,3022"/>
+<area shape="rect" id="node34" href="$structobd__device.html" title="{obd_device\n|+ obd_type\l+ obd_magic\l+ obd_minor\l+ obd_lu_dev\l+ obd_uuid\l+ obd_name\l+ obd_attached\l+ obd_set_up\l+ obd_recovering\l+ obd_abort_recovery\l+ obd_version_recov\l+ obd_replayable\l+ obd_no_transno\l+ obd_no_recov\l+ obd_stopping\l+ obd_starting\l+ obd_force\l+ obd_fail\l+ obd_no_conn\l+ obd_inactive\l+ obd_no_ir\l+ obd_process_conf\l+ obd_uses_nid_stats\l+ obd_recovery_expired\l+ obd_uuid_hash\l+ obd_nid_hash\l+ obd_nid_stats_hash\l+ obd_gen_hash\l+ obd_nid_stats\l+ obd_exports\l+ obd_unlinked_exports\l+ obd_delayed_exports\l+ obd_lwp_list\l+ obd_refcount\l+ obd_num_exports\l+ obd_nid_lock\l+ obd_namespace\l+ obd_ldlm_client\l+ obd_dev_lock\l+ obd_osfs_lock\l+ obd_osfs\l+ obd_osfs_age\l+ obd_last_committed\l+ obd_dev_mutex\l+ obd_lvfs_ctxt\l+ obd_olg\l+ obd_observer\l+ obd_observer_link_sem\l+ obd_upcall\l+ obd_self_export\l+ obd_lwp_export\l+ obd_exports_timed\l+ obd_eviction_timer\l+ obd_max_recoverable_clients\l+ obd_connected_clients\l+ obd_stale_clients\l+ obd_recovery_task_lock\l+ obd_next_recovery_transno\l+ obd_replayed_requests\l+ obd_requests_queued_for_recovery\l+ obd_next_transno_waitq\l+ obd_recovery_timer\l+ obd_recovery_start\l+ obd_recovery_end\l+ obd_recovery_time_hard\l+ obd_recovery_timeout\l+ obd_recovery_ir_factor\l+ obd_replayed_locks\l+ obd_req_replay_clients\l+ obd_lock_replay_clients\l+ obd_recovery_data\l+ obd_req_replay_queue\l+ obd_lock_replay_queue\l+ obd_final_req_queue\l+ cli\l+ echo_client\l+ lov\l+ lmv\l+ u\l+ obd_stats\l+ obd_cntr_base\l+ obd_md_cntr_base\l+ obd_md_stats\l+ obd_proc_entry\l+ obd_proc_exports_entry\l+ obd_svc_procroot\l+ obd_svc_stats\l+ obd_vars\l+ obd_evict_inprogress\l+ obd_evict_inprogress_waitq\l+ obd_evict_list\l+ obd_pool_lock\l+ obd_pool_slv\l+ obd_pool_limit\l+ obd_conn_inprogress\l+ obd_reference\l|}" alt="" coords="854,3505,1128,5237"/>
+<area shape="rect" id="node44" href="$structlu__device__type.html" title="Type of device." alt="" coords="1191,483,1316,672"/>
+<area shape="rect" id="node47" href="$structlu__site.html" title="lu_site is a &quot;compartment&quot; within which objects are unique, and LRU discipline..." alt="" coords="1267,4241,1408,4500"/>
+<area shape="rect" id="node53" href="$structcl__page__list.html" title="{cl_page_list\n|+ pl_nr\l+ pl_pages\l+ pl_owner\l|}" alt="" coords="2091,517,2190,637"/>
+<area shape="rect" id="node57" href="$structcl__page.html" title="Fields are protected by the lock on struct page, except for atomics and immutables..." alt="" coords="2427,4224,2552,4517"/>
+<area shape="rect" id="node69" href="$structcl__lockset.html" title="Lock&#45;set represents a collection of locks, that io needs at a time." alt="" coords="2234,1623,2327,1726"/>
+<area shape="rect" id="node106" href="$structlov__io__sub.html" title="State that lov_io maintains for every sub&#45;io." alt="" coords="3200,4267,3347,4474"/>
+<area shape="rect" id="node111" href="$structlu__context.html" title="lu_context." alt="" coords="3191,225,3316,415"/>
+<area shape="rect" id="node114" href="$structptlrpc__thread.html" title="Definition of server service thread structure." alt="" coords="2966,1934,3080,2175"/>
+<area shape="rect" id="node117" href="$structptlrpc__service__part.html" title="Definition of PortalRPC service partition data." alt="" coords="2644,723,2839,1554"/>
+<area shape="rect" id="node122" href="$structptlrpc__service.html" title="Definition of PortalRPC service." alt="" coords="2500,1795,2706,2314"/>
+<area shape="rect" id="node126" href="$structptlrpc__nrs.html" title="NRS head." alt="" coords="2730,1908,2890,2201"/>
+<area shape="rect" id="node130" href="$structptlrpc__at__array.html" title="{ptlrpc_at_array\n|+ paa_reqs_array\l+ paa_size\l+ paa_count\l+ paa_deadline\l+ paa_reqs_count\l|}" alt="" coords="2646,243,2787,397"/>
+<area shape="rect" id="node138" href="$structcl__io__slice.html" title="IO state private for a layer." alt="" coords="1803,4302,1910,4439"/>
+<area shape="rect" id="node145" href="$structlov__sublock__env.html" title="Describe the environment settings for sublocks." alt="" coords="3142,5391,3270,5511"/>
+<area shape="rect" id="node10" href="$structcl__object.html" title="Sub&#45;class of lu_object with methods common for objects on the client stacks." alt="" coords="1507,1995,1622,2115"/>
+<area shape="rect" id="node74" href="$structlov__object.html" title="lov&#45;specific file state." alt="" coords="574,2807,718,3031"/>
+<area shape="rect" id="node85" href="$structlovsub__object.html" title="{lovsub_object\n|+ lso_header\l+ lso_cl\l+ lso_super\l+ lso_index\l|}" alt="" coords="588,4302,703,4439"/>
+<area shape="rect" id="node12" href="$structcl__object__operations.html" title="Operations implemented for each cl object layer." alt="" coords="1612,992,1775,1285"/>
+<area shape="rect" id="node41" href="$structlu__device__operations.html" title="Operations common for data and meta&#45;data devices." alt="" coords="1004,1986,1199,2123"/>
+<area shape="rect" id="node17" href="$structlu__object__operations.html" title="Operations specific for particular lu_object." alt="" coords="951,225,1122,415"/>
+<area shape="rect" id="node19" href="$structlu__ref__link.html" title="{lu_ref_link\n||}" alt="" coords="3082,277,3167,363"/>
+<area shape="rect" id="node89" href="$structcl__object__header.html" title="Extended header for client object." alt="" coords="135,1597,290,1752"/>
+<area shape="rect" id="node24" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="547,14,638,117"/>
+<area shape="rect" id="node27" href="$structlu__fid.html" title="File IDentifier." alt="" coords="451,5,523,125"/>
+<area shape="rect" id="node97" href="$structost__id.html" title="OST object IDentifier." alt="" coords="355,243,432,397"/>
+<area shape="rect" id="node29" href="$structlu__ref.html" title="{lu_ref\n||}" alt="" coords="820,23,879,108"/>
+<area shape="rect" id="node51" href="$structcl__2queue.html" title="A 2&#45;queue of pages." alt="" coords="2134,1623,2224,1726"/>
+<area shape="rect" id="node62" href="$structcl__sync__io.html" title="Anchor for synchronous transfer." alt="" coords="3039,2841,3151,2996"/>
+<area shape="rect" id="node67" href="$structost__lvb.html" title="{ost_lvb\n|+ lvb_size\l+ lvb_mtime\l+ lvb_atime\l+ lvb_ctime\l+ lvb_blocks\l+ lvb_mtime_ns\l+ lvb_atime_ns\l+ lvb_ctime_ns\l+ lvb_padding\l|}" alt="" coords="1975,208,2103,432"/>
+<area shape="rect" id="node100" href="$structlov__oinfo.html" title="{lov_oinfo\n|+ loi_oi\l+ loi_ost_idx\l+ loi_ost_gen\l+ loi_kms_valid\l+ loi_kms\l+ loi_lvb\l+ loi_ar\l|}" alt="" coords="567,1044,687,1233"/>
+<area shape="rect" id="node72" href="$structcl__io__rw__common.html" title="{cl_io_rw_common\n|+ crw_pos\l+ crw_count\l+ crw_nonblock\l|}" alt="" coords="2062,1995,2200,2115"/>
+<area shape="rect" id="node77" href="$unionlov__object_1_1lov__layout__state.html" title="{lov_object::lov_layout_state\n|+ raid0\l+ empty\l+ released\l|}" alt="" coords="268,5664,482,5784"/>
+<area shape="rect" id="node79" href="$structlov__object_1_1lov__layout__state_1_1lov__layout__state__released.html" title="{lov_object::lov_layout_state::lov_layout_state_released\n||}" alt="" coords="54,5408,456,5493"/>
+<area shape="rect" id="node81" href="$structlov__object_1_1lov__layout__state_1_1lov__layout__raid0.html" title="{lov_object::lov_layout_state::lov_layout_raid0\n|+ lo_nr\l+ lo_attr_valid\l+ lo_sub\l+ lo_sub_lock\l+ lo_attr\l|}" alt="" coords="480,5373,811,5528"/>
+<area shape="rect" id="node83" href="$structcl__attr.html" title="&quot;Data attributes&quot; of cl_object." alt="" coords="455,4259,564,4483"/>
+<area shape="rect" id="node93" href="$structlov__object_1_1lov__layout__state_1_1lov__layout__state__empty.html" title="{lov_object::lov_layout_state::lov_layout_state_empty\n||}" alt="" coords="835,5408,1224,5493"/>
+<area shape="rect" id="node95" href="$structlov__stripe__md.html" title="{lov_stripe_md\n|+ lsm_refc\l+ lsm_lock\l+ lsm_lock_owner\l+ lsm_maxbytes\l+ lsm_oi\l+ lsm_magic\l+ lsm_stripe_size\l+ lsm_pattern\l+ lsm_stripe_count\l+ lsm_layout_gen\l+ lsm_pool_name\l+ lsm_oinfo\l|}" alt="" coords="552,1917,702,2193"/>
+<area shape="rect" id="node102" href="$structosc__async__rc.html" title="{osc_async_rc\n|+ ar_rc\l+ ar_force_sync\l+ ar_min_xid\l|}" alt="" coords="456,260,584,380"/>
+<area shape="rect" id="node109" href="$structlu__env.html" title="Environment." alt="" coords="3302,1087,3379,1190"/>
+<area shape="rect" id="node120" href="$structadaptive__timeout.html" title="{adaptive_timeout\n|+ at_binstart\l+ at_hist\l+ at_flags\l+ at_current\l+ at_worst_ever\l+ at_worst_time\l+ at_lock\l|}" alt="" coords="2480,225,2622,415"/>
+<area shape="rect" id="node143" href="$structcl__io__operations.html" title="Per&#45;layer io operations." alt="" coords="1634,2772,1794,3065"/>
+</map>

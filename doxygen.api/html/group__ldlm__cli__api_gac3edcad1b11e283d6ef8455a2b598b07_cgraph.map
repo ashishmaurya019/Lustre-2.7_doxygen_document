@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__ldlm__cli__api.html#gac421005283912bb5186b035013aa58c0" title="Finishing portion of client lock enqueue code." alt="" coords="207,144,369,173"/>
+<area shape="rect" id="node16" href="$group__req__layout.html#ga102a4e6bb0a627ead289f4684971fc28" title="Return the actual PTLRPC buffer length of a request or reply (loc) for the given..." alt="" coords="459,248,624,277"/>
+<area shape="rect" id="node23" href="$group__LDLM.html#ga7b4cfac056355ba992b1b7d9bfbaa25b" title="Fill in &quot;on the wire&quot; representation for given LDLM lock into supplied..." alt="" coords="227,486,349,516"/>
+<area shape="rect" id="node27" href="$group__LDLM.html#ga35362f3605ec8dec52464f153c932c85" title="Fills in handle for LDLM lock lock into supplied lockh Does not take any references..." alt="" coords="221,565,355,594"/>
+<area shape="rect" id="node29" href="$group__net.html#ga003cd2f0c09fd578821500e8084f8c48" title="Send request and wait until it completes." alt="" coords="215,618,361,648"/>
+<area shape="rect" id="node39" href="$group__net.html#gaf16bb640b9f0c667d79b7254ac965288" title="Drops one reference count for a request." alt="" coords="1185,825,1332,854"/>
+<area shape="rect" id="node79" href="$group__net.html#gac578ffdc47c9c2141c34c4798a55cce4" title="Allocate new request for operatione opcode and immediatelly pack it for network transfer..." alt="" coords="191,381,385,410"/>
+<area shape="rect" id="node95" href="$group__req__layout.html#ga0ecb097da2dfa5ac12ec0ef1f33d3e88" title="Trivial wrapper around __req_capsule_get(), that returns the PTLRPC request buffer..." alt="" coords="199,798,377,828"/>
+<area shape="rect" id="node97" href="$group__req__layout.html#gad16c26c15f59593e2e005e4afbeb8034" title="Changes the format of an RPC." alt="" coords="209,852,367,881"/>
+<area shape="rect" id="node100" href="$group__req__layout.html#ga6d0a3a11367bcd9fe40dc723243e7b0d" title="Set the size of the PTLRPC request/reply (loc) buffer for the given field of the..." alt="" coords="205,905,371,934"/>
+<area shape="rect" id="node5" href="$group__LDLM.html#ga0f272b273065dc0d916fcb5c6b61d656" title="Converts lock policy from on the wire lock_desc format to local format." alt="" coords="435,90,648,120"/>
+<area shape="rect" id="node7" href="$group__LDLM.html#gafd6a07a826f7d2789696e472dd81adc2" title="Moves LDLM lock lock to another resource." alt="" coords="440,144,643,173"/>
+<area shape="rect" id="node11" href="$group__LDLM.html#ga7ea7aa073d254d8500c07d2664cbecf9" title="Lock a lock and its resource." alt="" coords="705,196,844,225"/>
+<area shape="rect" id="node13" href="$group__LDLM.html#gaf9b19facd1a8bb3cdfcac5047159f15e" title="Unlock a lock and its resource previously locked with lock_res_and_lock." alt="" coords="697,37,852,66"/>
+<area shape="rect" id="node20" href="$group__req__layout.html#ga0d1ad53a1914c35470f3916e4bb4b8fe" title="Trivial wrapper around __req_capsule_get(), that returns the PTLRPC reply buffer..." alt="" coords="451,37,632,66"/>
+<area shape="rect" id="node9" href="$group__LDLM.html#ga083fb1ea92619c4b2e526633c3a486fb" title="Return a reference to resource with given name, creating it if necessary." alt="" coords="701,142,848,172"/>
+<area shape="rect" id="node18" href="$group__net.html#ga8ddfe4bfdb34b2159b8281fb3c6e09a4" title="lustre_msg_buflen &#45; return the length of buffer n in message m " alt="" coords="928,248,1072,277"/>
+<area shape="rect" id="node25" href="$group__LDLM.html#ga82466f1300e6e9395e768b7336c0ac46" title="Converts lock policy from local format to on the wire lock_desc format." alt="" coords="436,461,647,490"/>
+<area shape="rect" id="node31" href="$group__net.html#ga7e29af1c85aba7368cea369f091d09b4" title="Allocate and initialize new request set structure on the current CPT." alt="" coords="477,618,605,648"/>
+<area shape="rect" id="node33" href="$group__net.html#ga60499b3efd5caf2e7bc59c308332aff3" title="Grab additional reference on a request req." alt="" coords="1173,353,1344,382"/>
+<area shape="rect" id="node35" href="$group__net.html#ga5da56461932d974b4c2487f179d8e6d8" title="Add a new request to the general purpose request set." alt="" coords="467,565,616,594"/>
+<area shape="rect" id="node37" href="$group__net.html#ga862d0349489e1b216f7b1be96ac3baf8" title="Wind down and free request set structure previously allocated with ptlrpc_prep_set..." alt="" coords="925,773,1075,802"/>
+<area shape="rect" id="node41" href="$group__net.html#gac072432ff0e3366be99c8456895e28d1" title="Send all unset request from the set and then wait untill all requests in the set..." alt="" coords="479,672,604,701"/>
+<area shape="rect" id="node43" href="$group__net.html#ga63613680c8953223c8efc4331656b11a" title="this sends any unsent RPCs in set and returns 1 if all are sent and no more replies..." alt="" coords="705,670,844,700"/>
+<area shape="rect" id="node45" href="$group__net.html#ga52f0aef010b62759e4c2f9e6ef6aea3d" title="Send request request." alt="" coords="947,618,1053,648"/>
+<area shape="rect" id="node60" href="$group__net.html#gaea9a5e62d5d55ace491db905c9a474f7" title="Disconnect a bulk desc from the network." alt="" coords="1173,772,1344,801"/>
+<area shape="rect" id="node70" href="$group__sptlrpc.html#ga94cbed545313e8c7bc6a682a438c89b0" title="To refresh the context of , if it&#39;s not up&#45;to&#45;date." alt="" coords="909,565,1091,594"/>
+<area shape="rect" id="node47" href="$group__lnet__md.html#ga958972d35fc04d0716f4f6b71cd804fc" title="Create a memory descriptor and attach it to a ME." alt="" coords="1437,649,1563,678"/>
+<area shape="rect" id="node49" href="$group__lnet__me.html#ga581025ed43fdf21741691e82253b1b50" title="Create and attach a match entry to the match list of portal." alt="" coords="1439,714,1561,744"/>
+<area shape="rect" id="node51" href="$group__lnet__me.html#gad38e0c2462a6e9a1735783c853345422" title="Unlink a match entry from its match list." alt="" coords="1443,572,1557,601"/>
+<area shape="rect" id="node53" href="$group__net.html#gaa1cf14602e33836d92101141c3a0d67d" title="Actual interfacing with LNet to put/get/register/unregister stuff." alt="" coords="1181,617,1336,646"/>
+<area shape="rect" id="node62" href="$group__sptlrpc.html#ga2059ff503d15d0b06699e153845bc66f" title="Used by ptlrpc client to allocate reply buffer of req." alt="" coords="1171,513,1347,542"/>
+<area shape="rect" id="node64" href="$group__sptlrpc.html#ga2b508842c18d6c0a32c9678445565ce2" title="Used by ptlrpc client, to perform the pre&#45;defined security transformation upon the..." alt="" coords="1165,460,1352,489"/>
+<area shape="rect" id="node66" href="$group__sptlrpc.html#gae9ac9239c38fc5eb10c0951976a38512" title="Perform transformation upon bulk data pointed by desc." alt="" coords="1420,460,1580,489"/>
+<area shape="rect" id="node72" href="$group__sptlrpc.html#ga7254cf32b0cefed6242f298d3326e8dd" title="If current context of req is dead somehow, e.g." alt="" coords="1147,406,1371,436"/>
+<area shape="rect" id="node74" href="$group__sptlrpc.html#ga5aafb085a9167ed0295a28d4bddb5847" title="Given a req, find or allocate an appropriate context for it." alt="" coords="1421,353,1579,382"/>
+<area shape="rect" id="node76" href="$group__sptlrpc.html#ga9c506dfa976b8fa42f6d351f1a67098c" title="Drop the context for req." alt="" coords="1421,406,1579,436"/>
+<area shape="rect" id="node81" href="$group__net.html#ga2bf080a905f488f676248838514e264a" title="Allocate new request structure for import imp and initialize its buffer structure..." alt="" coords="463,301,620,330"/>
+<area shape="rect" id="node83" href="$group__net.html#ga35e91945e5dfe7314c1b31519907929f" title="For requests not from pool, free memory of the request structure." alt="" coords="464,354,619,384"/>
+<area shape="rect" id="node85" href="$group__net.html#gaa1d6f5834629cf755c8f1f0b1a4349de" title="Pack request buffers for network transfer, performing necessary encryption steps..." alt="" coords="463,408,620,437"/>
+<area shape="rect" id="node87" href="$group__req__layout.html#gaf42efe506903884592711902e9276e99" title="This function shrinks the size of the _buffer_ of the pill&#39;s PTLRPC request or..." alt="" coords="701,326,848,356"/>
+<area shape="rect" id="node90" href="$group__req__layout.html#gad281812fde0bdb0aaaed8a022e0008f2" title="Returns a non&#45;zero value if the given field is present in the given pill&#39;s PTLRPC..." alt="" coords="901,352,1099,381"/>
+<area shape="rect" id="node92" href="$group__req__layout.html#ga35302dbfc2517d692579948a9742d3ba" title="This function returns a non&#45;zero value if the given field is present in the format..." alt="" coords="1176,300,1341,329"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structosc__async__rc.html" title="{osc_async_rc\n|+ ar_rc\l+ ar_force_sync\l+ ar_min_xid\l|}" alt="" coords="5,244,133,364"/>
+<area shape="rect" id="node4" href="$structost__lvb.html" title="{ost_lvb\n|+ lvb_size\l+ lvb_mtime\l+ lvb_atime\l+ lvb_ctime\l+ lvb_blocks\l+ lvb_mtime_ns\l+ lvb_atime_ns\l+ lvb_ctime_ns\l+ lvb_padding\l|}" alt="" coords="157,192,285,416"/>
+<area shape="rect" id="node6" href="$structost__id.html" title="OST object IDentifier." alt="" coords="309,227,387,381"/>
+<area shape="rect" id="node8" href="$structlu__fid.html" title="File IDentifier." alt="" coords="312,5,384,125"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlprocfs__percpu.html" title="{lprocfs_percpu\n|+ lp_cntr\l|}" alt="" coords="9,244,127,329"/>
+<area shape="rect" id="node4" href="$structlprocfs__counter.html" title="{lprocfs_counter\n|+ lc_count\l+ lc_min\l+ lc_max\l+ lc_sumsquare\l+ lc_array_sum\l|}" alt="" coords="5,5,131,160"/>
+<area shape="rect" id="node6" href="$structlprocfs__counter__header.html" title="{lprocfs_counter_header\n|+ lc_config\l+ lc_name\l+ lc_units\l|}" alt="" coords="151,227,329,347"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="141,6,224,109"/>
+<area shape="rect" id="node7" href="$structsfw__batch__t.html" title="{sfw_batch_t\n|+ bat_list\l+ bat_id\l+ bat_error\l+ bat_session\l+ bat_nactive\l+ bat_tests\l|}" alt="" coords="125,742,243,914"/>
+<area shape="rect" id="node9" href="$structsfw__session__t.html" title="{sfw_session_t\n|+ sn_list\l+ sn_id\l+ sn_timeout\l+ sn_timer_active\l+ sn_features\l+ sn_timer\l+ sn_batches\l+ sn_name\l+ sn_refcount\l+ sn_brw_errors\l+ sn_ping_errors\l+ sn_started\l|}" alt="" coords="183,398,327,674"/>
+<area shape="rect" id="node12" href="$structstt__timer__t.html" title="{stt_timer_t\n|+ stt_list\l+ stt_expires\l+ stt_func\l+ stt_data\l|}" alt="" coords="321,177,433,314"/>
+<area shape="rect" id="node5" href="$structsfw__test__client__ops__t.html" title="{sfw_test_client_ops_t\n|+ tso_init\l+ tso_fini\l+ tso_prep_rpc\l+ tso_done_rpc\l|}" alt="" coords="267,759,437,897"/>
+<area shape="rect" id="node15" href="$structlst__sid__t.html" title="{lst_sid_t\n|+ ses_nid\l+ ses_stamp\l|}" alt="" coords="457,194,567,297"/>
+<area shape="rect" id="node18" href="$structlst__bid__t.html" title="{lst_bid_t\n|+ bat_id\l|}" alt="" coords="351,493,428,579"/>
+</map>

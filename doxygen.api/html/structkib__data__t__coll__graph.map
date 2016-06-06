@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="92,6,175,109"/>
+<area shape="rect" id="node5" href="$structkib__sched__info.html" title="{kib_sched_info\n|+ ibs_lock\l+ ibs_waitq\l+ ibs_conns\l+ ibs_nthreads\l+ ibs_nthreads_max\l+ ibs_cpt\l|}" alt="" coords="219,177,376,349"/>
+</map>

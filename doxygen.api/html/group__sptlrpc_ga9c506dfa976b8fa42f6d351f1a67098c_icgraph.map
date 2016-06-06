@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__sptlrpc.html#ga7254cf32b0cefed6242f298d3326e8dd" title="If current context of req is dead somehow, e.g." alt="" coords="211,136,435,165"/>
+<area shape="rect" id="node5" href="$group__sptlrpc.html#ga94cbed545313e8c7bc6a682a438c89b0" title="To refresh the context of , if it&#39;s not up&#45;to&#45;date." alt="" coords="484,136,665,165"/>
+<area shape="rect" id="node7" href="$group__net.html#ga63613680c8953223c8efc4331656b11a" title="this sends any unsent RPCs in set and returns 1 if all are sent and no more replies..." alt="" coords="744,109,883,139"/>
+<area shape="rect" id="node40" href="$group__sptlrpc.html#gaa43ec50fcb7c93e96d80c8b544da92a5" title="Given an import imp, check whether current user has a valid context or not." alt="" coords="716,163,911,192"/>
+<area shape="rect" id="node9" href="$group__lib.html#gafc5cf9a5b2924b90734e720301742315" title="Send a remote set_info_async." alt="" coords="1340,56,1484,85"/>
+<area shape="rect" id="node11" href="$group__net.html#gac072432ff0e3366be99c8456895e28d1" title="Send all unset request from the set and then wait untill all requests in the set..." alt="" coords="964,109,1089,139"/>
+<area shape="rect" id="node13" href="$group__net.html#ga003cd2f0c09fd578821500e8084f8c48" title="Send request and wait until it completes." alt="" coords="1141,109,1288,139"/>
+<area shape="rect" id="node16" href="$group__ldlm__cli__api.html#ga677e9f9ff5fbe2174b139fe8c2b77b70" title="Prepare and send a batched cancel RPC." alt="" coords="1337,109,1487,139"/>
+<area shape="rect" id="node38" href="$group__ldlm__cli__api.html#gac3edcad1b11e283d6ef8455a2b598b07" title="Client&#45;side lock enqueue." alt="" coords="1344,163,1480,192"/>
+<area shape="rect" id="node18" href="$group__ldlm__cli__api.html#ga96adcececc3c547888075de942fa1872" title="Cancel client&#45;side locks from a list and send/prepare cancel RPCs to the server." alt="" coords="1537,109,1684,139"/>
+<area shape="rect" id="node20" href="$group__ldlm__cli__api.html#ga0237477d402999ab81f2b2447fceebc9" title="Client side lock cancel." alt="" coords="1767,29,1887,59"/>
+<area shape="rect" id="node27" href="$group__ldlm__cli__api.html#gac7dcd18ff549bf7b777a067e1c374149" title="Locally cancel up to count locks in list cancels." alt="" coords="1735,83,1919,112"/>
+<area shape="rect" id="node31" href="$group__ldlm__cli__api.html#ga56914f0205e9d377eeceb78f8db71f66" title="Cancel all locks on a resource that have 0 readers/writers." alt="" coords="2219,108,2461,137"/>
+<area shape="rect" id="node36" href="$group__ldlm__cli__api.html#gabae59a7ebeed8c6fd60b22f03cf88e1f" title="Cancel LRU locks and pack them into the enqueue request." alt="" coords="1756,187,1897,216"/>
+<area shape="rect" id="node22" href="$group__ldlm__local__ast.html#ga9962ac0cc2bd7e279cf0b977d822feb3" title="A helper to build a blocking AST function." alt="" coords="1969,29,2169,59"/>
+<area shape="rect" id="node24" href="$group__ldlm__local__ast.html#gacc93548bb07532aa1d816dee71bd2ecb" title="Server blocking AST." alt="" coords="2271,29,2409,59"/>
+<area shape="rect" id="node29" href="$group__ldlm__cli__api.html#ga2fab73fddf169b2202e11527226f7253" title="Find and cancel locally unused locks found on resource, matched to the given policy..." alt="" coords="1968,83,2171,112"/>
+<area shape="rect" id="node33" href="$group__ldlm__cli__api.html#ga8067f82d5a14a84d1c103d2de469501a" title="Cancel all locks on a namespace (or a specific resource, if given) that have 0 readers/writers..." alt="" coords="2509,108,2685,137"/>
+<area shape="rect" id="node42" href="$group__LDLM.html#ga1373811e4c4edbb039f1da1ca7947b03" title="Attempt to find a lock with specified properties." alt="" coords="960,163,1093,192"/>
+</map>

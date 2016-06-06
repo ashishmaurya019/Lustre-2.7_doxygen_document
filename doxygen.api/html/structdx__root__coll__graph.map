@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structfake__dirent.html" title="{fake_dirent\n|+ inode\l+ rec_len\l+ name_len\l+ file_type\l|}" alt="" coords="5,14,107,151"/>
+<area shape="rect" id="node4" href="$structdx__root_1_1dx__root__info.html" title="{dx_root::dx_root_info\n|+ reserved_zero\l+ hash_version\l+ info_length\l+ indirect_levels\l+ unused_flags\l|}" alt="" coords="131,5,296,160"/>
+</map>

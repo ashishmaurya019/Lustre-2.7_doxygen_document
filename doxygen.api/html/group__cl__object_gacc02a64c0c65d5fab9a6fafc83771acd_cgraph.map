@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__lu.html#ga54cb269068bb3767dde66b0bb58afb70" title="Find object with given fid, and return its slice belonging to given device." alt="" coords="168,59,320,88"/>
+<area shape="rect" id="node5" href="$group__lu.html#ga507da2d12daef52e3859b9b96d0ae591" title="Search cache for an object with the fid f." alt="" coords="379,5,493,35"/>
+<area shape="rect" id="node9" href="$group__lu.html#gaee34b6396491c109bd66e4c055dd7189" title="Given a compound object, find its slice, corresponding to the device type dtype." alt="" coords="369,59,503,88"/>
+<area shape="rect" id="node11" href="$group__lu.html#ga0d53e3777af7b81492a1178c75b872ea" title="Decrease reference counter on object." alt="" coords="379,112,493,141"/>
+<area shape="rect" id="node7" href="$group__lu.html#gad0df5edda743e3ab2a9165faecb8656b" title="Much like lu_object_find(), but top level device of object is specifically dev rather..." alt="" coords="553,5,689,35"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__sptlrpc.html#ga94cbed545313e8c7bc6a682a438c89b0" title="To refresh the context of , if it&#39;s not up&#45;to&#45;date." alt="" coords="252,32,433,61"/>
+<area shape="rect" id="node5" href="$group__sptlrpc.html#ga7254cf32b0cefed6242f298d3326e8dd" title="If current context of req is dead somehow, e.g." alt="" coords="483,32,707,61"/>
+<area shape="rect" id="node7" href="$group__sptlrpc.html#ga5aafb085a9167ed0295a28d4bddb5847" title="Given a req, find or allocate an appropriate context for it." alt="" coords="756,5,913,35"/>
+<area shape="rect" id="node9" href="$group__sptlrpc.html#ga9c506dfa976b8fa42f6d351f1a67098c" title="Drop the context for req." alt="" coords="756,59,913,88"/>
+</map>

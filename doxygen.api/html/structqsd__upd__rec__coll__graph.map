@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$unionlquota__id.html" title="{lquota_id\n|+ qid_fid\l+ qid_uid\l+ qid_gid\l|}" alt="" coords="3551,2349,3633,2469"/>
+<area shape="rect" id="node17" href="$structlquota__entry.html" title="{lquota_entry\n|+ lqe_hash\l+ lqe_id\l+ lqe_site\l+ lqe_ref\l+ lqe_link\l+ lqe_granted\l+ lqe_qunit\l+ me\l+ se\l+ u\l+ lqe_enforced\l+ lqe_uptodate\l+ lqe_edquot\l+ lqe_gl\l+ lqe_nopreacq\l|}" alt="" coords="3629,3100,3755,3428"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="3431,1167,3503,1287"/>
+<area shape="rect" id="node50" href="$structqsd__qtype__info.html" title="{qsd_qtype_info\n|+ qqi_ref\l+ qqi_qtype\l+ qqi_fid\l+ qqi_slv_fid\l+ qqi_qsd\l+ qqi_lockh\l+ qqi_acct_obj\l+ qqi_slv_obj\l+ qqi_glb_obj\l+ qqi_slv_ver\l+ qqi_glb_ver\l+ qqi_site\l+ qqi_reint_thread\l+ qqi_stats\l+ qqi_deferred_glb\l+ qqi_deferred_slv\l+ qqi_glb_uptodate\l+ qqi_slv_uptodate\l+ qqi_reint\l+ qqi_reference\l|}" alt="" coords="3011,3057,3160,3471"/>
+<area shape="rect" id="node6" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="1884,31,1967,134"/>
+<area shape="rect" id="node36" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="2337,287,2463,441"/>
+<area shape="rect" id="node61" href="$structptlrpc__thread.html" title="Definition of server service thread structure." alt="" coords="277,2289,392,2530"/>
+<area shape="rect" id="node64" href="$structptlrpc__service__part.html" title="Definition of PortalRPC service partition data." alt="" coords="853,811,1048,1642"/>
+<area shape="rect" id="node69" href="$structptlrpc__service.html" title="Definition of PortalRPC service." alt="" coords="787,2150,992,2669"/>
+<area shape="rect" id="node74" href="$structptlrpc__nrs.html" title="NRS head." alt="" coords="1027,2263,1187,2556"/>
+<area shape="rect" id="node78" href="$structptlrpc__at__array.html" title="{ptlrpc_at_array\n|+ paa_reqs_array\l+ paa_size\l+ paa_count\l+ paa_deadline\l+ paa_reqs_count\l|}" alt="" coords="828,287,969,441"/>
+<area shape="rect" id="node83" href="$structlu__context.html" title="lu_context." alt="" coords="143,3169,268,3359"/>
+<area shape="rect" id="node90" href="$structqsd__instance.html" title="{qsd_instance\n|+ qsd_svname\l+ qsd_pool_id\l+ qsd_dev\l+ qsd_proc\l+ qsd_exp\l+ qsd_ns\l+ qsd_root\l+ qsd_type_array\l+ qsd_fsinfo\l+ qsd_link\l+ qsd_adjust_list\l+ qsd_adjust_lock\l+ qsd_upd_thread\l+ qsd_upd_list\l+ qsd_lock\l+ qsd_sync_threshold\l+ qsd_timeout\l+ qsd_is_md\l+ qsd_started\l+ qsd_prepared\l+ qsd_exp_valid\l+ qsd_stopping\l+ qsd_acct_failed\l|}" alt="" coords="1999,3555,2164,4021"/>
+<area shape="rect" id="node94" href="$structqsd__fsinfo.html" title="{qsd_fsinfo\n|+ qfs_name\l+ qfs_enabled\l+ qfs_qsd_list\l+ qfs_mutex\l+ qfs_link\l+ qfs_ref\l|}" alt="" coords="439,1667,553,1839"/>
+<area shape="rect" id="node97" href="$structdt__device.html" title="{dt_device\n|+ dd_lu_dev\l+ dd_ops\l+ dd_txn_callbacks\l+ dd_record_fid_accessed\l|}" alt="" coords="3001,1158,3196,1295"/>
+<area shape="rect" id="node102" href="$structlu__device.html" title="Device: a layer in the server side abstraction stacking." alt="" coords="3136,261,3261,467"/>
+<area shape="rect" id="node115" href="$structlu__object.html" title="Layer in the layered object." alt="" coords="2351,1149,2455,1304"/>
+<area shape="rect" id="node120" href="$structobd__export.html" title="Export structure." alt="" coords="2119,1864,2361,2955"/>
+<area shape="rect" id="node122" href="$structtg__export__data.html" title="Target&#45;specific export data." alt="" coords="2159,510,2351,786"/>
+<area shape="rect" id="node129" href="$structldlm__namespace.html" title="LDLM Namespace." alt="" coords="1233,2115,1417,2703"/>
+<area shape="rect" id="node9" href="$unionlquota__rec.html" title="{lquota_rec\n|+ lqr_glb_rec\l+ lqr_slv_rec\l+ lqr_acct_rec\l|}" alt="" coords="4245,3204,4363,3324"/>
+<area shape="rect" id="node11" href="$structlquota__slv__rec.html" title="{lquota_slv_rec\n|+ qsr_granted\l|}" alt="" coords="4465,2367,4583,2452"/>
+<area shape="rect" id="node13" href="$structlquota__acct__rec.html" title="{lquota_acct_rec\n|+ bspace\l+ ispace\l|}" alt="" coords="4164,2358,4295,2461"/>
+<area shape="rect" id="node15" href="$structlquota__glb__rec.html" title="{lquota_glb_rec\n|+ qbr_hardlimit\l+ qbr_softlimit\l+ qbr_time\l+ qbr_granted\l|}" alt="" coords="4319,2341,4441,2478"/>
+<area shape="rect" id="node21" href="$structlquota__slv__entry.html" title="{lquota_slv_entry\n|+ lse_qtune\l+ lse_lockh\l+ lse_pending_write\l+ lse_waiting_write\l+ lse_pending_rel\l+ lse_pending_req\l+ lse_lock\l+ lse_waiters\l+ lse_usage\l+ lse_adjust_time\l+ lse_acq_rc\l+ lse_acq_time\l+ lse_edquot_time\l|}" alt="" coords="3935,2263,4089,2556"/>
+<area shape="rect" id="node23" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="3541,1184,3653,1269"/>
+<area shape="rect" id="node25" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="2824,1175,2915,1278"/>
+<area shape="rect" id="node28" href="$structlquota__mst__entry.html" title="{lquota_mst_entry\n|+ lme_hardlimit\l+ lme_softlimit\l+ lme_gracetime\l+ lme_revoke_time\l+ lme_sem\l+ lme_may_rel\l|}" alt="" coords="3759,2323,3911,2495"/>
+<area shape="rect" id="node30" href="$structlquota__site.html" title="{lquota_site\n|+ lqs_hash\l+ lqs_qtype\l+ lqs_is_mst\l+ lqs_ops\l+ lqs_parent\l|}" alt="" coords="3060,2332,3167,2487"/>
+<area shape="rect" id="node32" href="$structcfs__hash.html" title="cfs_hash is a hash&#45;table implementation for general purpose, it can support: ." alt="" coords="2637,993,2800,1460"/>
+<area shape="rect" id="node34" href="$unioncfs__hash__lock.html" title="{cfs_hash_lock\n|+ rw\l+ spin\l|}" alt="" coords="3311,31,3423,134"/>
+<area shape="rect" id="node39" href="$structcfs__hash__bucket.html" title="cfs_hash_bucket is a container of:lock, counter ." alt="" coords="3383,278,3516,450"/>
+<area shape="rect" id="node42" href="$structcfs__hash__hlist__ops.html" title="{cfs_hash_hlist_ops\n|+ hop_hhead\l+ hop_hhead_size\l+ hop_hnode_add\l+ hop_hnode_del\l|}" alt="" coords="2487,295,2631,433"/>
+<area shape="rect" id="node44" href="$structcfs__hash__lock__ops.html" title="{cfs_hash_lock_ops\n|+ hs_lock\l+ hs_unlock\l+ hs_bkt_lock\l+ hs_bkt_unlock\l|}" alt="" coords="2655,295,2796,433"/>
+<area shape="rect" id="node46" href="$structcfs__hash__ops.html" title="{cfs_hash_ops\n|+ hs_hash\l+ hs_key\l+ hs_keycpy\l+ hs_keycmp\l+ hs_object\l+ hs_get\l+ hs_put\l+ hs_put_locked\l+ hs_exit\l|}" alt="" coords="2820,252,2951,476"/>
+<area shape="rect" id="node48" href="$structlquota__entry__operations.html" title="{lquota_entry_operations\n|+ lqe_init\l+ lqe_read\l+ lqe_debug\l|}" alt="" coords="3220,1167,3407,1287"/>
+<area shape="rect" id="node53" href="$structlprocfs__stats.html" title="{lprocfs_stats\n|+ ls_num\l+ ls_biggest_alloc_num\l+ ls_flags\l+ ls_lock\l+ ls_cnt_header\l+ ls_percpu\l|}" alt="" coords="543,1141,719,1313"/>
+<area shape="rect" id="node55" href="$structlprocfs__percpu.html" title="{lprocfs_percpu\n|+ lp_cntr\l|}" alt="" coords="9,321,127,407"/>
+<area shape="rect" id="node57" href="$structlprocfs__counter.html" title="{lprocfs_counter\n|+ lc_count\l+ lc_min\l+ lc_max\l+ lc_sumsquare\l+ lc_array_sum\l|}" alt="" coords="5,5,131,160"/>
+<area shape="rect" id="node59" href="$structlprocfs__counter__header.html" title="{lprocfs_counter_header\n|+ lc_config\l+ lc_name\l+ lc_units\l|}" alt="" coords="607,304,785,424"/>
+<area shape="rect" id="node67" href="$structadaptive__timeout.html" title="{adaptive_timeout\n|+ at_binstart\l+ at_hist\l+ at_flags\l+ at_current\l+ at_worst_ever\l+ at_worst_time\l+ at_lock\l|}" alt="" coords="1685,269,1827,459"/>
+<area shape="rect" id="node81" href="$structlu__env.html" title="Environment." alt="" coords="247,3737,324,3839"/>
+<area shape="rect" id="node100" href="$structdt__device__operations.html" title="Operations on dt device." alt="" coords="3540,243,3705,485"/>
+<area shape="rect" id="node105" href="$structlu__ref.html" title="{lu_ref\n||}" alt="" coords="3648,40,3707,125"/>
+<area shape="rect" id="node107" href="$structdt__object.html" title="{dt_object\n|+ do_lu\l+ do_ops\l+ do_body_ops\l+ do_index_ops\l|}" alt="" coords="1767,2341,1892,2478"/>
+<area shape="rect" id="node109" href="$structdt__body__operations.html" title="Per&#45;dt&#45;object operations on &quot;file body&quot; &#45; unstructure raw data." alt="" coords="1705,1080,1924,1373"/>
+<area shape="rect" id="node111" href="$structdt__index__operations.html" title="Per&#45;dt&#45;object operations on object as index." alt="" coords="1313,1141,1476,1313"/>
+<area shape="rect" id="node113" href="$structdt__object__operations.html" title="A dt_object provides common operations to create and destroy objects and to manage..." alt="" coords="1500,941,1681,1512"/>
+</map>

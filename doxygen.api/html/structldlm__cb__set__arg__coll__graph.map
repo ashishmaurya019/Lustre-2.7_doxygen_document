@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$unionldlm__gl__desc.html" title="{ldlm_gl_desc\n|+ lquota_desc\l|}" alt="" coords="24,800,141,885"/>
+<area shape="rect" id="node4" href="$structldlm__gl__lquota__desc.html" title="{ldlm_gl_lquota_desc\n|+ gl_id\l+ gl_flags\l+ gl_ver\l+ gl_hardlimit\l+ gl_softlimit\l+ gl_time\l+ gl_pad2\l|}" alt="" coords="5,379,160,568"/>
+<area shape="rect" id="node6" href="$unionlquota__id.html" title="{lquota_id\n|+ qid_fid\l+ qid_uid\l+ qid_gid\l|}" alt="" coords="41,192,124,312"/>
+<area shape="rect" id="node8" href="$structlu__fid.html" title="File IDentifier." alt="" coords="47,5,119,125"/>
+<area shape="rect" id="node10" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="208,422,291,525"/>
+<area shape="rect" id="node13" href="$structptlrpc__request__set.html" title="Definition of request set structure." alt="" coords="235,670,395,1015"/>
+</map>

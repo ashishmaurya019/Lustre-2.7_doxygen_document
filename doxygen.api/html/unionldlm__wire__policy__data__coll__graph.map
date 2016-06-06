@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structldlm__flock__wire.html" title="{ldlm_flock_wire\n|+ lfw_start\l+ lfw_end\l+ lfw_owner\l+ lfw_padding\l+ lfw_pid\l|}" alt="" coords="5,5,128,160"/>
+<area shape="rect" id="node4" href="$structldlm__extent.html" title="{ldlm_extent\n|+ start\l+ end\l+ gid\l|}" alt="" coords="152,23,256,143"/>
+<area shape="rect" id="node6" href="$structldlm__inodebits.html" title="{ldlm_inodebits\n|+ bits\l|}" alt="" coords="280,40,397,125"/>
+</map>

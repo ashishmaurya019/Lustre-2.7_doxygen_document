@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__ldlm__cli__api.html#ga677e9f9ff5fbe2174b139fe8c2b77b70" title="Prepare and send a batched cancel RPC." alt="" coords="256,135,405,164"/>
+<area shape="rect" id="node23" href="$group__ldlm__cli__api.html#gabae59a7ebeed8c6fd60b22f03cf88e1f" title="Cancel LRU locks and pack them into the enqueue request." alt="" coords="695,187,836,216"/>
+<area shape="rect" id="node26" href="$group__req__layout.html#ga2d6e601381473d8117410c7c9cd176c9" title="Capsule equivalent of lustre_pack_request() and lustre_pack_reply()." alt="" coords="236,239,425,268"/>
+<area shape="rect" id="node5" href="$group__ldlm__cli__api.html#ga96adcececc3c547888075de942fa1872" title="Cancel client&#45;side locks from a list and send/prepare cancel RPCs to the server." alt="" coords="476,135,623,164"/>
+<area shape="rect" id="node7" href="$group__ldlm__cli__api.html#ga0237477d402999ab81f2b2447fceebc9" title="Client side lock cancel." alt="" coords="705,29,825,59"/>
+<area shape="rect" id="node14" href="$group__ldlm__cli__api.html#gac7dcd18ff549bf7b777a067e1c374149" title="Locally cancel up to count locks in list cancels." alt="" coords="673,83,857,112"/>
+<area shape="rect" id="node18" href="$group__ldlm__cli__api.html#ga56914f0205e9d377eeceb78f8db71f66" title="Cancel all locks on a resource that have 0 readers/writers." alt="" coords="1157,108,1400,137"/>
+<area shape="rect" id="node9" href="$group__ldlm__local__ast.html#ga9962ac0cc2bd7e279cf0b977d822feb3" title="A helper to build a blocking AST function." alt="" coords="908,29,1108,59"/>
+<area shape="rect" id="node11" href="$group__ldlm__local__ast.html#gacc93548bb07532aa1d816dee71bd2ecb" title="Server blocking AST." alt="" coords="1209,29,1348,59"/>
+<area shape="rect" id="node16" href="$group__ldlm__cli__api.html#ga2fab73fddf169b2202e11527226f7253" title="Find and cancel locally unused locks found on resource, matched to the given policy..." alt="" coords="907,83,1109,112"/>
+<area shape="rect" id="node20" href="$group__ldlm__cli__api.html#ga8067f82d5a14a84d1c103d2de469501a" title="Cancel all locks on a namespace (or a specific resource, if given) that have 0 readers/writers..." alt="" coords="1448,108,1624,137"/>
+</map>

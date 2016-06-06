@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__net.html#ga63613680c8953223c8efc4331656b11a" title="this sends any unsent RPCs in set and returns 1 if all are sent and no more replies..." alt="" coords="181,399,320,428"/>
+<area shape="rect" id="node5" href="$group__net.html#ga52f0aef010b62759e4c2f9e6ef6aea3d" title="Send request request." alt="" coords="407,240,513,269"/>
+<area shape="rect" id="node18" href="$group__net.html#gaf16bb640b9f0c667d79b7254ac965288" title="Drops one reference count for a request." alt="" coords="639,371,785,400"/>
+<area shape="rect" id="node22" href="$group__net.html#gaea9a5e62d5d55ace491db905c9a474f7" title="Disconnect a bulk desc from the network." alt="" coords="627,424,797,453"/>
+<area shape="rect" id="node32" href="$group__sptlrpc.html#ga94cbed545313e8c7bc6a682a438c89b0" title="To refresh the context of , if it&#39;s not up&#45;to&#45;date." alt="" coords="369,476,551,505"/>
+<area shape="rect" id="node7" href="$group__lnet__md.html#ga958972d35fc04d0716f4f6b71cd804fc" title="Create a memory descriptor and attach it to a ME." alt="" coords="891,124,1016,153"/>
+<area shape="rect" id="node9" href="$group__lnet__me.html#ga581025ed43fdf21741691e82253b1b50" title="Create and attach a match entry to the match list of portal." alt="" coords="892,200,1015,229"/>
+<area shape="rect" id="node11" href="$group__lnet__me.html#gad38e0c2462a6e9a1735783c853345422" title="Unlink a match entry from its match list." alt="" coords="896,260,1011,289"/>
+<area shape="rect" id="node13" href="$group__net.html#gaa1cf14602e33836d92101141c3a0d67d" title="Actual interfacing with LNet to put/get/register/unregister stuff." alt="" coords="635,213,789,243"/>
+<area shape="rect" id="node20" href="$group__net.html#ga60499b3efd5caf2e7bc59c308332aff3" title="Grab additional reference on a request req." alt="" coords="627,317,797,347"/>
+<area shape="rect" id="node24" href="$group__sptlrpc.html#ga2059ff503d15d0b06699e153845bc66f" title="Used by ptlrpc client to allocate reply buffer of req." alt="" coords="624,5,800,35"/>
+<area shape="rect" id="node26" href="$group__sptlrpc.html#ga2b508842c18d6c0a32c9678445565ce2" title="Used by ptlrpc client, to perform the pre&#45;defined security transformation upon the..." alt="" coords="619,59,805,88"/>
+<area shape="rect" id="node28" href="$group__sptlrpc.html#gae9ac9239c38fc5eb10c0951976a38512" title="Perform transformation upon bulk data pointed by desc." alt="" coords="873,59,1033,88"/>
+<area shape="rect" id="node34" href="$group__sptlrpc.html#ga7254cf32b0cefed6242f298d3326e8dd" title="If current context of req is dead somehow, e.g." alt="" coords="600,477,824,507"/>
+<area shape="rect" id="node36" href="$group__sptlrpc.html#ga5aafb085a9167ed0295a28d4bddb5847" title="Given a req, find or allocate an appropriate context for it." alt="" coords="875,451,1032,480"/>
+<area shape="rect" id="node38" href="$group__sptlrpc.html#ga9c506dfa976b8fa42f6d351f1a67098c" title="Drop the context for req." alt="" coords="875,504,1032,533"/>
+</map>

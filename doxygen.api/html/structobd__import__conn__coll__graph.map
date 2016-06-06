@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="56,202,139,305"/>
+<area shape="rect" id="node5" href="$structptlrpc__connection.html" title="Structure to single define portal connection." alt="" coords="220,176,361,331"/>
+<area shape="rect" id="node7" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="5,6,96,109"/>
+<area shape="rect" id="node10" href="$structobd__uuid.html" title="{obd_uuid\n|+ uuid\l|}" alt="" coords="377,15,457,100"/>
+<area shape="rect" id="node12" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="183,6,321,109"/>
+</map>

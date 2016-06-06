@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__lnet__eq.html#gae6d5740f0da715e176d47af9f638521b" title="A nonblocking function that can be used to get the next event in an EQ." alt="" coords="155,5,256,35"/>
+<area shape="rect" id="node5" href="$group__lnet__eq.html#ga7cefc01394a06655eec46dcf3904ea21" title="Block the calling process until there is an event in the EQ." alt="" coords="152,59,259,88"/>
+</map>

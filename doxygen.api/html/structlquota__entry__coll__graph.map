@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$unionlquota__id.html" title="{lquota_id\n|+ qid_fid\l+ qid_uid\l+ qid_gid\l|}" alt="" coords="5,1273,88,1393"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="8,827,80,947"/>
+<area shape="rect" id="node6" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="112,177,195,279"/>
+<area shape="rect" id="node24" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="165,381,291,536"/>
+<area shape="rect" id="node9" href="$structlquota__slv__entry.html" title="{lquota_slv_entry\n|+ lse_qtune\l+ lse_lockh\l+ lse_pending_write\l+ lse_waiting_write\l+ lse_pending_rel\l+ lse_pending_req\l+ lse_lock\l+ lse_waiters\l+ lse_usage\l+ lse_adjust_time\l+ lse_acq_rc\l+ lse_acq_time\l+ lse_edquot_time\l|}" alt="" coords="1108,1187,1263,1480"/>
+<area shape="rect" id="node11" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="1129,844,1241,929"/>
+<area shape="rect" id="node13" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="991,6,1081,109"/>
+<area shape="rect" id="node32" href="$structhlist__head.html" title="{hlist_head\n|+ first\l|}" alt="" coords="933,185,1024,271"/>
+<area shape="rect" id="node16" href="$structlquota__mst__entry.html" title="{lquota_mst_entry\n|+ lme_hardlimit\l+ lme_softlimit\l+ lme_gracetime\l+ lme_revoke_time\l+ lme_sem\l+ lme_may_rel\l|}" alt="" coords="1287,1247,1439,1419"/>
+<area shape="rect" id="node18" href="$structlquota__site.html" title="{lquota_site\n|+ lqs_hash\l+ lqs_qtype\l+ lqs_is_mst\l+ lqs_ops\l+ lqs_parent\l|}" alt="" coords="836,1256,943,1411"/>
+<area shape="rect" id="node20" href="$structcfs__hash.html" title="cfs_hash is a hash&#45;table implementation for general purpose, it can support: ." alt="" coords="559,653,721,1120"/>
+<area shape="rect" id="node22" href="$unioncfs__hash__lock.html" title="{cfs_hash_lock\n|+ rw\l+ spin\l|}" alt="" coords="383,177,495,279"/>
+<area shape="rect" id="node27" href="$structcfs__hash__bucket.html" title="cfs_hash_bucket is a container of:lock, counter ." alt="" coords="315,373,448,545"/>
+<area shape="rect" id="node30" href="$structcfs__hash__hlist__ops.html" title="{cfs_hash_hlist_ops\n|+ hop_hhead\l+ hop_hhead_size\l+ hop_hnode_add\l+ hop_hnode_del\l|}" alt="" coords="889,390,1033,527"/>
+<area shape="rect" id="node35" href="$structcfs__hash__lock__ops.html" title="{cfs_hash_lock_ops\n|+ hs_lock\l+ hs_unlock\l+ hs_bkt_lock\l+ hs_bkt_unlock\l|}" alt="" coords="569,390,711,527"/>
+<area shape="rect" id="node37" href="$structcfs__hash__ops.html" title="{cfs_hash_ops\n|+ hs_hash\l+ hs_key\l+ hs_keycpy\l+ hs_keycmp\l+ hs_object\l+ hs_get\l+ hs_put\l+ hs_put_locked\l+ hs_exit\l|}" alt="" coords="735,347,865,571"/>
+<area shape="rect" id="node39" href="$structlquota__entry__operations.html" title="{lquota_entry_operations\n|+ lqe_init\l+ lqe_read\l+ lqe_debug\l|}" alt="" coords="796,827,983,947"/>
+</map>

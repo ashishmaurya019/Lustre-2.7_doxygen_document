@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlustre__cfg.html" title="{lustre_cfg\n|+ lcfg_version\l+ lcfg_command\l+ lcfg_num\l+ lcfg_flags\l+ lcfg_nid\l+ lcfg_nal\l+ lcfg_bufcount\l+ lcfg_buflens\l|}" alt="" coords="5,6,139,213"/>
+<area shape="rect" id="node4" href="$structllog__rec__tail.html" title="{llog_rec_tail\n|+ lrt_len\l+ lrt_index\l|}" alt="" coords="163,58,264,161"/>
+<area shape="rect" id="node6" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="288,41,389,178"/>
+</map>

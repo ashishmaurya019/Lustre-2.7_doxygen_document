@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__net.html#gaa1d6f5834629cf755c8f1f0b1a4349de" title="Pack request buffers for network transfer, performing necessary encryption steps..." alt="" coords="201,161,359,191"/>
+<area shape="rect" id="node5" href="$group__lib.html#gafc5cf9a5b2924b90734e720301742315" title="Send a remote set_info_async." alt="" coords="435,81,579,111"/>
+<area shape="rect" id="node7" href="$group__ldlm__cli__api.html#ga677e9f9ff5fbe2174b139fe8c2b77b70" title="Prepare and send a batched cancel RPC." alt="" coords="432,135,581,164"/>
+<area shape="rect" id="node27" href="$group__ldlm__cli__api.html#gabae59a7ebeed8c6fd60b22f03cf88e1f" title="Cancel LRU locks and pack them into the enqueue request." alt="" coords="873,187,1015,216"/>
+<area shape="rect" id="node30" href="$group__net.html#gac578ffdc47c9c2141c34c4798a55cce4" title="Allocate new request for operatione opcode and immediatelly pack it for network transfer..." alt="" coords="409,239,604,268"/>
+<area shape="rect" id="node9" href="$group__ldlm__cli__api.html#ga96adcececc3c547888075de942fa1872" title="Cancel client&#45;side locks from a list and send/prepare cancel RPCs to the server." alt="" coords="655,135,801,164"/>
+<area shape="rect" id="node11" href="$group__ldlm__cli__api.html#ga0237477d402999ab81f2b2447fceebc9" title="Client side lock cancel." alt="" coords="884,29,1004,59"/>
+<area shape="rect" id="node18" href="$group__ldlm__cli__api.html#gac7dcd18ff549bf7b777a067e1c374149" title="Locally cancel up to count locks in list cancels." alt="" coords="852,83,1036,112"/>
+<area shape="rect" id="node22" href="$group__ldlm__cli__api.html#ga56914f0205e9d377eeceb78f8db71f66" title="Cancel all locks on a resource that have 0 readers/writers." alt="" coords="1336,108,1579,137"/>
+<area shape="rect" id="node13" href="$group__ldlm__local__ast.html#ga9962ac0cc2bd7e279cf0b977d822feb3" title="A helper to build a blocking AST function." alt="" coords="1087,29,1287,59"/>
+<area shape="rect" id="node15" href="$group__ldlm__local__ast.html#gacc93548bb07532aa1d816dee71bd2ecb" title="Server blocking AST." alt="" coords="1388,29,1527,59"/>
+<area shape="rect" id="node20" href="$group__ldlm__cli__api.html#ga2fab73fddf169b2202e11527226f7253" title="Find and cancel locally unused locks found on resource, matched to the given policy..." alt="" coords="1085,83,1288,112"/>
+<area shape="rect" id="node24" href="$group__ldlm__cli__api.html#ga8067f82d5a14a84d1c103d2de469501a" title="Cancel all locks on a namespace (or a specific resource, if given) that have 0 readers/writers..." alt="" coords="1627,108,1803,137"/>
+<area shape="rect" id="node32" href="$group__ldlm__cli__api.html#gac3edcad1b11e283d6ef8455a2b598b07" title="Client&#45;side lock enqueue." alt="" coords="660,239,796,268"/>
+</map>

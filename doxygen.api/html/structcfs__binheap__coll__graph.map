@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structcfs__binheap__node.html" title="Binary heap node." alt="" coords="5,32,147,117"/>
+<area shape="rect" id="node4" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="171,6,304,143"/>
+<area shape="rect" id="node6" href="$structcfs__binheap__ops.html" title="Binary heap operations." alt="" coords="328,15,459,135"/>
+</map>

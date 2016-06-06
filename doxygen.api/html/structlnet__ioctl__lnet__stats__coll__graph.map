@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlnet__counters.html" title="{lnet_counters\n|+ msgs_alloc\l+ msgs_max\l+ errors\l+ send_count\l+ recv_count\l+ route_count\l+ drop_count\l+ send_length\l+ recv_length\l+ route_length\l+ drop_length\l|}" alt="" coords="5,5,128,264"/>
+<area shape="rect" id="node4" href="$structlibcfs__ioctl__hdr.html" title="{libcfs_ioctl_hdr\n|+ ioc_len\l+ ioc_version\l|}" alt="" coords="152,83,272,186"/>
+</map>

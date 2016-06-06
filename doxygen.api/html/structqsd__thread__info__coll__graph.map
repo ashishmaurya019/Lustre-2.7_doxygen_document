@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structidx__info.html" title="{idx_info\n|+ ii_magic\l+ ii_flags\l+ ii_count\l+ ii_pad0\l+ ii_attrs\l+ ii_fid\l+ ii_version\l+ ii_hash_start\l+ ii_hash_end\l+ ii_keysize\l+ ii_recsize\l+ ii_pad1\l+ ii_pad2\l+ ii_pad3\l|}" alt="" coords="80,355,200,666"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="138,5,210,125"/>
+<area shape="rect" id="node6" href="$unionlquota__id.html" title="{lquota_id\n|+ qid_fid\l+ qid_uid\l+ qid_gid\l|}" alt="" coords="178,201,261,321"/>
+<area shape="rect" id="node21" href="$structquota__body.html" title="{quota_body\n|+ qb_fid\l+ qb_id\l+ qb_flags\l+ qb_padding\l+ qb_count\l+ qb_usage\l+ qb_slv_ver\l+ qb_lockh\l+ qb_glb_lockh\l+ qb_padding1\l|}" alt="" coords="290,691,408,933"/>
+<area shape="rect" id="node9" href="$structldlm__enqueue__info.html" title="Common ldlm_enqueue parameters." alt="" coords="545,691,692,933"/>
+<area shape="rect" id="node11" href="$structlquota__lvb.html" title="{lquota_lvb\n|+ lvb_flags\l+ lvb_id_may_rel\l+ lvb_id_rel\l+ lvb_id_qunit\l+ lvb_pad1\l|}" alt="" coords="716,735,849,889"/>
+<area shape="rect" id="node13" href="$unionlquota__rec.html" title="{lquota_rec\n|+ lqr_glb_rec\l+ lqr_slv_rec\l+ lqr_acct_rec\l|}" alt="" coords="873,752,990,872"/>
+<area shape="rect" id="node15" href="$structlquota__slv__rec.html" title="{lquota_slv_rec\n|+ qsr_granted\l|}" alt="" coords="725,219,842,304"/>
+<area shape="rect" id="node17" href="$structlquota__acct__rec.html" title="{lquota_acct_rec\n|+ bspace\l+ ispace\l|}" alt="" coords="866,210,997,313"/>
+<area shape="rect" id="node19" href="$structlquota__glb__rec.html" title="{lquota_glb_rec\n|+ qbr_hardlimit\l+ qbr_softlimit\l+ qbr_time\l+ qbr_granted\l|}" alt="" coords="1021,193,1144,330"/>
+<area shape="rect" id="node25" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="397,219,509,304"/>
+<area shape="rect" id="node29" href="$structldlm__res__id.html" title="{ldlm_res_id\n|+ name\l|}" alt="" coords="1014,769,1108,855"/>
+</map>

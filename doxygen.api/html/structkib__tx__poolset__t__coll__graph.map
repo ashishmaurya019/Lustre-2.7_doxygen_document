@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$structkib__net.html" title="{kib_net\n|+ ibn_list\l+ ibn_incarnation\l+ ibn_init\l+ ibn_shutdown\l+ ibn_npeers\l+ ibn_nconns\l+ ibn_tx_ps\l+ ibn_fmr_ps\l+ ibn_dev\l|}" alt="" coords="275,569,411,793"/>
+<area shape="rect" id="node2" href="$structkib__poolset.html" title="{kib_poolset\n|+ ps_lock\l+ ps_net\l+ ps_name\l+ ps_pool_list\l+ ps_failed_pool_list\l+ ps_next_retry\l+ ps_increasing\l+ ps_pool_size\l+ ps_cpt\l+ ps_pool_create\l+ ps_pool_destroy\l+ ps_node_init\l+ ps_node_fini\l|}" alt="" coords="94,877,248,1171"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="310,6,392,109"/>
+<area shape="rect" id="node11" href="$structkib__fmr__poolset__t.html" title="{kib_fmr_poolset_t\n|+ fps_lock\l+ fps_net\l+ fps_pool_list\l+ fps_failed_pool_list\l+ fps_version\l+ fps_cpt\l+ fps_pool_size\l+ fps_flush_trigger\l+ fps_cache\l+ fps_increasing\l+ fps_next_retry\l|}" alt="" coords="346,895,506,1153"/>
+<area shape="rect" id="node15" href="$structkib__dev__t.html" title="{kib_dev_t\n|+ ibd_list\l+ ibd_fail_list\l+ ibd_ifip\l+ ibd_ifname\l+ ibd_nnets\l+ ibd_next_failover\l+ ibd_failed_failover\l+ ibd_failover\l+ ibd_can_failover\l+ ibd_nets\l+ ibd_hdev\l|}" alt="" coords="374,211,528,469"/>
+<area shape="rect" id="node18" href="$structkib__hca__dev.html" title="{kib_hca_dev\n|+ ibh_cmid\l+ ibh_ibdev\l+ ibh_page_shift\l+ ibh_page_size\l+ ibh_page_mask\l+ ibh_mr_shift\l+ ibh_mr_size\l+ ibh_mrs\l+ ibh_pd\l+ ibh_dev\l+ ibh_ref\l|}" alt="" coords="435,552,571,811"/>
+</map>

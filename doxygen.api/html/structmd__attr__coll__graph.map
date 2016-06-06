@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlu__attr.html" title="Common object attributes." alt="" coords="5,502,104,813"/>
+<area shape="rect" id="node4" href="$unionlmv__mds__md.html" title="{lmv_mds_md\n|+ lmv_magic\l+ lmv_md_v1\l+ lmv_user_md\l|}" alt="" coords="179,597,301,717"/>
+<area shape="rect" id="node6" href="$structlmv__mds__md__v1.html" title="{lmv_mds_md_v1\n|+ lmv_magic\l+ lmv_stripe_count\l+ lmv_master_mdt_index\l+ lmv_hash_type\l+ lmv_layout_version\l+ lmv_padding1\l+ lmv_padding2\l+ lmv_padding3\l+ lmv_pool_name\l+ lmv_stripe_fids\l|}" alt="" coords="179,193,373,434"/>
+<area shape="rect" id="node8" href="$structlu__fid.html" title="File IDentifier." alt="" coords="149,5,221,125"/>
+<area shape="rect" id="node10" href="$structmd__hsm.html" title="{md_hsm\n|+ mh_compat\l+ mh_flags\l+ mh_arch_id\l+ mh_arch_ver\l|}" alt="" coords="325,589,448,726"/>
+</map>

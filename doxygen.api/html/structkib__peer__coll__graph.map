@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="96,58,179,161"/>
+<area shape="rect" id="node5" href="$structlnet__ni.html" title="{lnet_ni\n|+ ni_lock\l+ ni_list\l+ ni_cptlist\l+ ni_maxtxcredits\l+ ni_peertxcredits\l+ ni_peerrtrcredits\l+ ni_peertimeout\l+ ni_ncpts\l+ ni_cpts\l+ ni_nid\l+ ni_data\l+ ni_lnd\l+ ni_tx_queues\l+ ni_refs\l+ ni_last_alive\l+ ni_status\l+ ni_lnd_tunables\l+ ni_interfaces\l|}" alt="" coords="195,659,344,1039"/>
+<area shape="rect" id="node8" href="$structlnet__tx__queue.html" title="{lnet_tx_queue\n|+ tq_credits\l+ tq_credits_min\l+ tq_credits_max\l+ tq_delayed\l|}" alt="" coords="199,350,340,487"/>
+<area shape="rect" id="node17" href="$structlnet__lnd.html" title="{lnet_lnd\n|+ lnd_list\l+ lnd_refcount\l+ lnd_type\l+ lnd_startup\l+ lnd_shutdown\l+ lnd_ctl\l+ lnd_send\l+ lnd_recv\l+ lnd_eager_recv\l+ lnd_notify\l+ lnd_query\l+ lnd_accept\l|}" alt="" coords="364,281,503,557"/>
+<area shape="rect" id="node11" href="$structlnet__ioctl__config__lnd__tunables.html" title="{lnet_ioctl_config_lnd_tunables\n|+ lt_cmn\l+ lt_o2ib\l+ lt_tun_u\l|}" alt="" coords="527,359,748,479"/>
+<area shape="rect" id="node13" href="$structlnet__ioctl__config__o2iblnd__tunables.html" title="{lnet_ioctl_config_o2iblnd_tunables\n|+ lnd_version\l+ lnd_peercredits_hiw\l+ lnd_map_on_demand\l+ lnd_concurrent_sends\l+ lnd_fmr_pool_size\l+ lnd_fmr_flush_trigger\l+ lnd_fmr_cache\l+ pad\l|}" alt="" coords="397,6,648,213"/>
+<area shape="rect" id="node15" href="$structlnet__ioctl__config__lnd__cmn__tunables.html" title="{lnet_ioctl_config_lnd_cmn_tunables\n|+ lct_version\l+ lct_peer_timeout\l+ lct_peer_tx_credits\l+ lct_peer_rtr_credits\l+ lct_max_tx_credits\l|}" alt="" coords="672,32,931,187"/>
+</map>

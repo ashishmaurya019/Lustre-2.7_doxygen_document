@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__io.html#gaffebdf9278fa11f9dbecfeb3f5852fb5" title="Wait until current io iteration is finished by calling cl_io_operations::cio_end()..." alt="" coords="167,5,249,35"/>
+<area shape="rect" id="node5" href="$group__cl__io.html#gad8b5d08373d6d963c67c2682e41999ac" title="Finalizes io iteration." alt="" coords="155,59,261,88"/>
+<area shape="rect" id="node7" href="$group__cl__io.html#gac1a8e0e9d4277fcde8a56794f6f41003" title="Prepares next iteration of io." alt="" coords="153,112,263,141"/>
+<area shape="rect" id="node9" href="$group__cl__io.html#ga2229beaa77461f453fa4e1f1e129cbe6" title="Takes locks necessary for the current iteration of io." alt="" coords="167,165,249,195"/>
+<area shape="rect" id="node11" href="$group__cl__io.html#ga0de2f26e31233ef3bf8c7315b412e681" title="Release locks takes by io." alt="" coords="327,192,425,221"/>
+<area shape="rect" id="node15" href="$group__cl__io.html#ga0e67009a999662295be41a4532bf6f37" title="Records that read or write io progressed nob bytes forward." alt="" coords="139,269,277,299"/>
+<area shape="rect" id="node17" href="$group__cl__io.html#gacf4c2a55f31d42191ff49b8685163008" title="Starts io by calling cl_io_operations::cio_start() top&#45;to&#45;bottom." alt="" coords="163,323,253,352"/>
+<area shape="rect" id="node13" href="$group__cl__lock.html#ga4e8069a400c6a75342649a6fc04fa2c3" title="Releases a hold and a reference on a lock, obtained by cl_lock_hold()." alt="" coords="475,192,597,221"/>
+</map>

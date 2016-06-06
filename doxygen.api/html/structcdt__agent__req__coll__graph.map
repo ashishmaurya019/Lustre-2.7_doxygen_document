@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,535,88,638"/>
+<area shape="rect" id="node5" href="$structhsm__action__item.html" title="{hsm_action_item\n|+ hai_len\l+ hai_action\l+ hai_fid\l+ hai_dfid\l+ hai_extent\l+ hai_cookie\l+ hai_gid\l+ hai_data\l|}" alt="" coords="169,483,308,690"/>
+<area shape="rect" id="node7" href="$structlu__fid.html" title="File IDentifier." alt="" coords="105,228,177,348"/>
+<area shape="rect" id="node9" href="$structhsm__extent.html" title="{hsm_extent\n|+ offset\l+ length\l|}" alt="" coords="201,237,305,339"/>
+<area shape="rect" id="node11" href="$structcdt__req__progress.html" title="{cdt_req_progress\n|+ crp_lock\l+ crp_root\l+ crp_node\l+ crp_cnt\l+ crp_max\l|}" alt="" coords="332,509,471,664"/>
+<area shape="rect" id="node13" href="$structinterval__node.html" title="{interval_node\n|+ in_left\l+ in_right\l+ in_parent\l+ in_color\l+ in_intree\l+ in_res1\l+ in_res2\l+ in_max_high\l+ in_extent\l|}" alt="" coords="343,176,460,400"/>
+<area shape="rect" id="node16" href="$structinterval__node_1_1interval__node__extent.html" title="{interval_node::interval_node_extent\n|+ start\l+ end\l|}" alt="" coords="267,6,536,109"/>
+<area shape="rect" id="node18" href="$structobd__uuid.html" title="{obd_uuid\n|+ uuid\l|}" alt="" coords="495,544,575,629"/>
+</map>

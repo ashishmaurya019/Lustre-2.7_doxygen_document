@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,31,88,134"/>
+<area shape="rect" id="node5" href="$structksock__interface__t.html" title="{ksock_interface_t\n|+ ksni_ipaddr\l+ ksni_netmask\l+ ksni_nroutes\l+ ksni_npeers\l+ ksni_name\l|}" alt="" coords="169,5,311,160"/>
+</map>

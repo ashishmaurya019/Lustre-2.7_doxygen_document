@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,419,88,522"/>
+<area shape="rect" id="node5" href="$structlfsck__assistant__object.html" title="{lfsck_assistant_object\n|+ lso_fid\l+ lso_oit_cookie\l+ lso_attr\l+ lso_ref\l+ lso_dead\l+ lso_is_dir\l|}" alt="" coords="169,385,340,557"/>
+<area shape="rect" id="node7" href="$structlu__attr.html" title="Common object attributes." alt="" coords="151,6,249,317"/>
+<area shape="rect" id="node9" href="$structlu__fid.html" title="File IDentifier." alt="" coords="273,101,345,221"/>
+</map>

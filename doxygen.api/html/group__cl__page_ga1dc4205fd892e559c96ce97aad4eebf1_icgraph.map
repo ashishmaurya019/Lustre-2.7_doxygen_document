@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__page__list.html#ga365b60118b6d1e7cf4ce21d58babf5b9" title="Removes a page from a page list." alt="" coords="171,59,296,88"/>
+<area shape="rect" id="node11" href="$group__cl__page__list.html#ga6775317c52f6e2540b62563f559cfab6" title="Disowns pages in a queue." alt="" coords="157,112,309,141"/>
+<area shape="rect" id="node5" href="$group__cl__page__list.html#gaf77c34a166e78fa83a75ec296dc0d3fe" title="Releases pages from queue." alt="" coords="367,5,492,35"/>
+<area shape="rect" id="node9" href="$group__cl__page__list.html#gaddbba15e99055d90aba88ec1b282455a" title="Owns all pages in a queue." alt="" coords="363,59,496,88"/>
+<area shape="rect" id="node7" href="$group__cl__page__list.html#gafce330d7c8aa93047c5716cba8f4f379" title="Finalize both page lists of a 2&#45;queue." alt="" coords="551,5,665,35"/>
+<area shape="rect" id="node13" href="$group__cl__page__list.html#ga70c6911b231ec808fedc50b9e27e2699" title="Disown pages in both lists of a 2&#45;queue." alt="" coords="359,112,500,141"/>
+</map>

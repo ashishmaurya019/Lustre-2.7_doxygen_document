@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structksock__sched__t.html" title="{ksock_sched_t\n|+ kss_lock\l+ kss_rx_conns\l+ kss_tx_conns\l+ kss_zombie_noop_txs\l+ kss_waitq\l+ kss_nconns\l+ kss_info\l+ kss_rx_scratch_pgs\l+ kss_scratch_iov\l|}" alt="" coords="55,245,236,469"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="207,23,289,126"/>
+</map>

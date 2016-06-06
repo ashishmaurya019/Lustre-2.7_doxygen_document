@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structcfs__trace__data__union_1_1cfs__trace__cpu__data.html" title="{cfs_trace_data_union::cfs_trace_cpu_data\n|+ tcd_lock\l+ tcd_lock_flags\l+ tcd_pages\l+ tcd_cur_pages\l+ tcd_daemon_pages\l+ tcd_cur_daemon_pages\l+ tcd_max_pages\l+ tcd_stock_pages\l+ tcd_cur_stock_pages\l+ tcd_shutting_down\l+ tcd_cpu\l+ tcd_type\l+ tcd_pages_factor\l|}" alt="" coords="5,211,315,504"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="119,6,201,109"/>
+</map>

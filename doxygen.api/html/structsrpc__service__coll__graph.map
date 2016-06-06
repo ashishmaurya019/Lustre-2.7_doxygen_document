@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsrpc__service__cd.html" title="{srpc_service_cd\n|+ scd_lock\l+ scd_svc\l+ scd_ev\l+ scd_rpc_free\l+ scd_rpc_active\l+ scd_buf_wi\l+ scd_cpt\l+ scd_buf_err\l+ scd_buf_err_stamp\l+ scd_buf_total\l+ scd_buf_nposted\l+ scd_buf_posting\l+ scd_buf_low\l+ scd_buf_adjust\l+ scd_buf_posted\l+ scd_buf_blocked\l|}" alt="" coords="193,915,356,1261"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="247,23,329,126"/>
+<area shape="rect" id="node17" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="205,307,331,461"/>
+<area shape="rect" id="node7" href="$structsrpc__event__t.html" title="{srpc_event_t\n|+ ev_type\l+ ev_lnet\l+ ev_fired\l+ ev_status\l+ ev_data\l|}" alt="" coords="405,667,517,821"/>
+<area shape="rect" id="node10" href="$structswi__workitem.html" title="{swi_workitem\n|+ swi_sched\l+ swi_workitem\l+ swi_action\l+ swi_state\l|}" alt="" coords="183,675,308,813"/>
+<area shape="rect" id="node15" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="25,6,159,143"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structobd__uuid.html" title="{obd_uuid\n|+ uuid\l|}" alt="" coords="5,32,85,117"/>
+<area shape="rect" id="node4" href="$structlustre__capa__key.html" title="{lustre_capa_key\n|+ lk_seq\l+ lk_keyid\l+ lk_padding\l+ lk_key\l|}" alt="" coords="109,6,240,143"/>
+</map>

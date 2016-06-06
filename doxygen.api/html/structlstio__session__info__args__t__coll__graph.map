@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlst__sid__t.html" title="{lst_sid_t\n|+ ses_nid\l+ ses_stamp\l|}" alt="" coords="5,31,115,134"/>
+<area shape="rect" id="node4" href="$structlstcon__ndlist__ent__t.html" title="{lstcon_ndlist_ent_t\n|+ nle_nnode\l+ nle_nactive\l+ nle_nbusy\l+ nle_ndown\l+ nle_nunknown\l|}" alt="" coords="139,5,288,160"/>
+</map>

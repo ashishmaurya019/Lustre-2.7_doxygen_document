@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$structptlrpc__service.html" title="Definition of PortalRPC service." alt="" coords="316,1553,521,2071"/>
+<area shape="rect" id="node23" href="$structptlrpc__nrs.html" title="NRS head." alt="" coords="849,1665,1009,1959"/>
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="1059,31,1141,134"/>
+<area shape="rect" id="node27" href="$structptlrpc__nrs__policy.html" title="NRS policy." alt="" coords="855,2155,996,2413"/>
+<area shape="rect" id="node29" href="$structptlrpc__nrs__pol__desc.html" title="NRS policy registering descriptor." alt="" coords="1247,3475,1433,3682"/>
+<area shape="rect" id="node39" href="$structnrs__tbf__req.html" title="{nrs_tbf_req\n|+ tr_list\l+ tr_sequence\l|}" alt="" coords="1517,441,1637,543"/>
+<area shape="rect" id="node54" href="$structnrs__fifo__req.html" title="{nrs_fifo_req\n|+ fr_list\l+ fr_sequence\l|}" alt="" coords="1228,1425,1345,1527"/>
+<area shape="rect" id="node60" href="$structptlrpc__at__array.html" title="{ptlrpc_at_array\n|+ paa_reqs_array\l+ paa_size\l+ paa_count\l+ paa_deadline\l+ paa_reqs_count\l|}" alt="" coords="683,244,824,399"/>
+<area shape="rect" id="node5" href="$structadaptive__timeout.html" title="{adaptive_timeout\n|+ at_binstart\l+ at_hist\l+ at_flags\l+ at_current\l+ at_worst_ever\l+ at_worst_time\l+ at_lock\l|}" alt="" coords="517,227,659,416"/>
+<area shape="rect" id="node10" href="$structlprocfs__stats.html" title="{lprocfs_stats\n|+ ls_num\l+ ls_biggest_alloc_num\l+ ls_flags\l+ ls_lock\l+ ls_cnt_header\l+ ls_percpu\l|}" alt="" coords="181,898,357,1070"/>
+<area shape="rect" id="node12" href="$structlprocfs__percpu.html" title="{lprocfs_percpu\n|+ lp_cntr\l|}" alt="" coords="39,279,156,364"/>
+<area shape="rect" id="node14" href="$structlprocfs__counter.html" title="{lprocfs_counter\n|+ lc_count\l+ lc_min\l+ lc_max\l+ lc_sumsquare\l+ lc_array_sum\l|}" alt="" coords="35,5,160,160"/>
+<area shape="rect" id="node16" href="$structlprocfs__counter__header.html" title="{lprocfs_counter_header\n|+ lc_config\l+ lc_name\l+ lc_units\l|}" alt="" coords="180,261,359,381"/>
+<area shape="rect" id="node18" href="$structptlrpc__service__ops.html" title="{ptlrpc_service_ops\n|+ so_thr_init\l+ so_thr_done\l+ so_req_handler\l+ so_hpreq_handler\l+ so_req_printer\l|}" alt="" coords="5,907,157,1061"/>
+<area shape="rect" id="node21" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="433,915,567,1053"/>
+<area shape="rect" id="node35" href="$structptlrpc__nrs__resource.html" title="NRS resource." alt="" coords="848,2533,1003,2635"/>
+<area shape="rect" id="node31" href="$structptlrpc__nrs__pol__ops.html" title="NRS policy operations." alt="" coords="1267,3115,1413,3408"/>
+<area shape="rect" id="node33" href="$structptlrpc__nrs__request.html" title="NRS request." alt="" coords="1267,2755,1413,3048"/>
+<area shape="rect" id="node42" href="$structnrs__crrn__req.html" title="CRR&#45;N NRS request definition." alt="" coords="1581,2533,1704,2635"/>
+<area shape="rect" id="node44" href="$structnrs__orr__req.html" title="ORR/TRR NRS request definition." alt="" coords="1340,2481,1479,2687"/>
+<area shape="rect" id="node46" href="$structnrs__orr__key.html" title="As unique keys for grouping RPCs together, we use the object&#39;s OST FID for the..." alt="" coords="1471,2224,1569,2344"/>
+<area shape="rect" id="node48" href="$structlu__fid.html" title="File IDentifier." alt="" coords="1484,1752,1556,1872"/>
+<area shape="rect" id="node50" href="$structnrs__orr__req__range.html" title="Lower and upper byte offsets of a brw RPC." alt="" coords="1305,2233,1447,2335"/>
+<area shape="rect" id="node52" href="$structcfs__binheap__node.html" title="Binary heap node." alt="" coords="1124,2541,1265,2627"/>
+</map>

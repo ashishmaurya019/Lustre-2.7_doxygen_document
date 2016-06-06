@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structkib__dev__t.html" title="{kib_dev_t\n|+ ibd_list\l+ ibd_fail_list\l+ ibd_ifip\l+ ibd_ifname\l+ ibd_nnets\l+ ibd_next_failover\l+ ibd_failed_failover\l+ ibd_failover\l+ ibd_can_failover\l+ ibd_nets\l+ ibd_hdev\l|}" alt="" coords="67,365,221,624"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="185,83,268,186"/>
+</map>

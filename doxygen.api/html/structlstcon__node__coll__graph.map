@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlstcon__rpc.html" title="{lstcon_rpc\n|+ crp_link\l+ crp_rpc\l+ crp_node\l+ crp_trans\l+ crp_posted\l+ crp_finished\l+ crp_unpacked\l+ crp_embedded\l+ crp_status\l+ crp_stamp\l|}" alt="" coords="549,1934,685,2175"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="203,23,285,126"/>
+<area shape="rect" id="node7" href="$structlstcon__rpc__trans.html" title="{lstcon_rpc_trans\n|+ tas_olink\l+ tas_link\l+ tas_opc\l+ tas_feats_updated\l+ tas_features\l+ tas_waitq\l+ tas_remaining\l+ tas_rpcs_list\l|}" alt="" coords="25,547,188,754"/>
+<area shape="rect" id="node10" href="$structsrpc__client__rpc.html" title="{srpc_client_rpc\n|+ crpc_list\l+ crpc_lock\l+ crpc_service\l+ crpc_refcount\l+ crpc_timeout\l+ crpc_timer\l+ crpc_wi\l+ crpc_dest\l+ crpc_done\l+ crpc_fini\l+ crpc_status\l+ crpc_priv\l+ crpc_aborted\l+ crpc_closed\l+ crpc_bulkev\l+ crpc_reqstev\l+ crpc_replyev\l+ crpc_reqstmsg\l+ crpc_replymsg\l+ crpc_reqstmdh\l+ crpc_replymdh\l+ crpc_bulk\l|}" alt="" coords="561,1417,697,1866"/>
+<area shape="rect" id="node15" href="$structstt__timer__t.html" title="{stt_timer_t\n|+ stt_list\l+ stt_expires\l+ stt_func\l+ stt_data\l|}" alt="" coords="283,582,395,719"/>
+<area shape="rect" id="node36" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="467,307,592,461"/>
+<area shape="rect" id="node13" href="$structlnet__handle__any__t.html" title="Objects maintained by the LNet are accessed through handles." alt="" coords="616,341,760,427"/>
+<area shape="rect" id="node20" href="$structsrpc__bulk__t.html" title="{srpc_bulk_t\n|+ bk_len\l+ bk_mdh\l+ bk_sink\l+ bk_niov\l+ bk_iovs\l|}" alt="" coords="755,969,851,1124"/>
+<area shape="rect" id="node18" href="$structsrpc__event__t.html" title="{srpc_event_t\n|+ ev_type\l+ ev_lnet\l+ ev_fired\l+ ev_status\l+ ev_data\l|}" alt="" coords="875,969,987,1124"/>
+<area shape="rect" id="node23" href="$structlnet__kiov__t.html" title="A page&#45;based fragment of a MD." alt="" coords="784,324,893,444"/>
+<area shape="rect" id="node25" href="$structsrpc__msg.html" title="{srpc_msg\n|+ msg_magic\l+ msg_version\l+ msg_type\l+ msg_reserved0\l+ msg_reserved1\l+ msg_ses_feats\l+ reqst\l+ reply\l+ mksn_reqst\l+ mksn_reply\l+ rmsn_reqst\l+ rmsn_reply\l+ dbg_reqst\l+ dbg_reply\l+ bat_reqst\l+ bat_reply\l+ stat_reqst\l+ stat_reply\l+ tes_reqst\l+ tes_reply\l+ join_reqst\l+ join_reply\l+ ping_reqst\l+ ping_reply\l+ brw_reqst\l+ brw_reply\l+ msg_body\l|}" alt="" coords="1011,779,1149,1315"/>
+<area shape="rect" id="node27" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="1175,995,1313,1098"/>
+<area shape="rect" id="node29" href="$structswi__workitem.html" title="{swi_workitem\n|+ swi_sched\l+ swi_workitem\l+ swi_action\l+ swi_state\l|}" alt="" coords="456,978,581,1115"/>
+<area shape="rect" id="node34" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="455,6,588,143"/>
+</map>

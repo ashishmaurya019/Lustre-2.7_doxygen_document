@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlstcon__node__ent__t.html" title="{lstcon_node_ent_t\n|+ nde_id\l+ nde_state\l|}" alt="" coords="39,269,185,371"/>
+<area shape="rect" id="node4" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="5,31,144,134"/>
+<area shape="rect" id="node6" href="$structlstcon__test__batch__ent__t.html" title="{lstcon_test_batch_ent_t\n|+ tbe_cli_nle\l+ tbe_srv_nle\l+ tbe_test\l+ tbe_batch\l+ u\l|}" alt="" coords="283,243,472,397"/>
+<area shape="rect" id="node8" href="$structlstcon__test__ent__t.html" title="{lstcon_test_ent_t\n|+ tse_type\l+ tse_loop\l+ tse_concur\l|}" alt="" coords="168,23,312,143"/>
+<area shape="rect" id="node10" href="$structlstcon__batch__ent__t.html" title="{lstcon_batch_ent_t\n|+ bae_state\l+ bae_timeout\l+ bae_ntest\l|}" alt="" coords="336,23,491,143"/>
+<area shape="rect" id="node12" href="$structlstcon__ndlist__ent__t.html" title="{lstcon_ndlist_ent_t\n|+ nle_nnode\l+ nle_nactive\l+ nle_nbusy\l+ nle_ndown\l+ nle_nunknown\l|}" alt="" coords="515,5,664,160"/>
+</map>

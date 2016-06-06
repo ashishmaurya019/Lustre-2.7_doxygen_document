@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="1987,237,2069,339"/>
+<area shape="rect" id="node9" href="$structcl__lock__slice.html" title="Per&#45;layer part of cl_lock." alt="" coords="483,5993,589,6130"/>
+<area shape="rect" id="node16" href="$structlu__object.html" title="Layer in the layered object." alt="" coords="636,1963,740,2117"/>
+<area shape="rect" id="node23" href="$structlu__object__header.html" title="&quot;Compound&quot; object, consisting of multiple layers." alt="" coords="675,631,813,838"/>
+<area shape="rect" id="node31" href="$structlu__device.html" title="Device: a layer in the server side abstraction stacking." alt="" coords="1103,631,1228,838"/>
+<area shape="rect" id="node34" href="$structobd__device.html" title="{obd_device\n|+ obd_type\l+ obd_magic\l+ obd_minor\l+ obd_lu_dev\l+ obd_uuid\l+ obd_name\l+ obd_attached\l+ obd_set_up\l+ obd_recovering\l+ obd_abort_recovery\l+ obd_version_recov\l+ obd_replayable\l+ obd_no_transno\l+ obd_no_recov\l+ obd_stopping\l+ obd_starting\l+ obd_force\l+ obd_fail\l+ obd_no_conn\l+ obd_inactive\l+ obd_no_ir\l+ obd_process_conf\l+ obd_uses_nid_stats\l+ obd_recovery_expired\l+ obd_uuid_hash\l+ obd_nid_hash\l+ obd_nid_stats_hash\l+ obd_gen_hash\l+ obd_nid_stats\l+ obd_exports\l+ obd_unlinked_exports\l+ obd_delayed_exports\l+ obd_lwp_list\l+ obd_refcount\l+ obd_num_exports\l+ obd_nid_lock\l+ obd_namespace\l+ obd_ldlm_client\l+ obd_dev_lock\l+ obd_osfs_lock\l+ obd_osfs\l+ obd_osfs_age\l+ obd_last_committed\l+ obd_dev_mutex\l+ obd_lvfs_ctxt\l+ obd_olg\l+ obd_observer\l+ obd_observer_link_sem\l+ obd_upcall\l+ obd_self_export\l+ obd_lwp_export\l+ obd_exports_timed\l+ obd_eviction_timer\l+ obd_max_recoverable_clients\l+ obd_connected_clients\l+ obd_stale_clients\l+ obd_recovery_task_lock\l+ obd_next_recovery_transno\l+ obd_replayed_requests\l+ obd_requests_queued_for_recovery\l+ obd_next_transno_waitq\l+ obd_recovery_timer\l+ obd_recovery_start\l+ obd_recovery_end\l+ obd_recovery_time_hard\l+ obd_recovery_timeout\l+ obd_recovery_ir_factor\l+ obd_replayed_locks\l+ obd_req_replay_clients\l+ obd_lock_replay_clients\l+ obd_recovery_data\l+ obd_req_replay_queue\l+ obd_lock_replay_queue\l+ obd_final_req_queue\l+ cli\l+ echo_client\l+ lov\l+ lmv\l+ u\l+ obd_stats\l+ obd_cntr_base\l+ obd_md_cntr_base\l+ obd_md_stats\l+ obd_proc_entry\l+ obd_proc_exports_entry\l+ obd_svc_procroot\l+ obd_svc_stats\l+ obd_vars\l+ obd_evict_inprogress\l+ obd_evict_inprogress_waitq\l+ obd_evict_list\l+ obd_pool_lock\l+ obd_pool_slv\l+ obd_pool_limit\l+ obd_conn_inprogress\l+ obd_reference\l|}" alt="" coords="1052,1174,1327,2906"/>
+<area shape="rect" id="node42" href="$structobd__export.html" title="Export structure." alt="" coords="2079,4563,2321,5653"/>
+<area shape="rect" id="node44" href="$structtg__export__data.html" title="Target&#45;specific export data." alt="" coords="2551,1902,2743,2178"/>
+<area shape="rect" id="node47" href="$structtg__reply__data.html" title="Target reply data." alt="" coords="2245,657,2392,812"/>
+<area shape="rect" id="node50" href="$structlu__nodemap.html" title="The nodemap id 0 will be the default nodemap." alt="" coords="2621,545,2819,925"/>
+<area shape="rect" id="node55" href="$structportals__handle.html" title="{portals_handle\n|+ h_link\l+ h_cookie\l+ h_owner\l+ h_ops\l+ h_rcu\l+ h_lock\l+ h_size\l+ h_in\l|}" alt="" coords="3096,1937,3213,2143"/>
+<area shape="rect" id="node60" href="$structfilter__export__data.html" title="Filter (oss&#45;side) specific import data." alt="" coords="2691,3569,2867,3828"/>
+<area shape="rect" id="node72" href="$structobd__import.html" title="Defintion of PortalRPC import structure." alt="" coords="1361,3041,1599,4357"/>
+<area shape="rect" id="node83" href="$structmdt__export__data.html" title="MDT&#45;specific export data." alt="" coords="2347,3621,2512,3776"/>
+<area shape="rect" id="node89" href="$structnid__stat.html" title="per&#45;NID statistics structure." alt="" coords="3027,3595,3184,3802"/>
+<area shape="rect" id="node95" href="$structmgs__export__data.html" title="{mgs_export_data\n|+ med_clients\l+ med_lock\l|}" alt="" coords="2127,1019,2265,1122"/>
+<area shape="rect" id="node99" href="$structec__export__data.html" title="{ec_export_data\n|+ eced_locks\l|}" alt="" coords="2131,2931,2259,3016"/>
+<area shape="rect" id="node105" href="$structcl__lock.html" title="Layered client lock." alt="" coords="488,5763,584,5866"/>
+<area shape="rect" id="node116" href="$structldlm__lock.html" title="LDLM lock structure." alt="" coords="1375,6198,1535,6994"/>
+<area shape="rect" id="node128" href="$structldlm__interval.html" title="Interval node data for each LDLM_EXTENT lock." alt="" coords="3435,683,3541,786"/>
+<area shape="rect" id="node141" href="$structldlm__resource.html" title="LDLM resource description." alt="" coords="3767,1833,3929,2247"/>
+<area shape="rect" id="node5" href="$structldlm__enqueue__info.html" title="Common ldlm_enqueue parameters." alt="" coords="1680,6475,1827,6717"/>
+<area shape="rect" id="node7" href="$structcl__sync__io.html" title="Anchor for synchronous transfer." alt="" coords="1851,6519,1963,6673"/>
+<area shape="rect" id="node12" href="$structcl__object.html" title="Sub&#45;class of lu_object with methods common for objects on the client stacks." alt="" coords="509,3639,624,3759"/>
+<area shape="rect" id="node108" href="$structcl__lock__descr.html" title="Lock description." alt="" coords="461,5022,587,5194"/>
+<area shape="rect" id="node14" href="$structcl__object__operations.html" title="Operations implemented for each cl object layer." alt="" coords="399,1893,561,2187"/>
+<area shape="rect" id="node19" href="$structlu__object__operations.html" title="Operations specific for particular lu_object." alt="" coords="224,640,395,829"/>
+<area shape="rect" id="node21" href="$structlu__ref__link.html" title="{lu_ref_link\n||}" alt="" coords="419,692,504,777"/>
+<area shape="rect" id="node26" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="3212,237,3303,339"/>
+<area shape="rect" id="node67" href="$structptlrpc__connection.html" title="Structure to single define portal connection." alt="" coords="1761,1963,1903,2117"/>
+<area shape="rect" id="node29" href="$structlu__ref.html" title="{lu_ref\n||}" alt="" coords="596,245,655,331"/>
+<area shape="rect" id="node36" href="$structcfs__hash.html" title="cfs_hash is a hash&#45;table implementation for general purpose, it can support: ." alt="" coords="1689,501,1852,968"/>
+<area shape="rect" id="node121" href="$structldlm__flock.html" title="{ldlm_flock\n|+ start\l+ end\l+ owner\l+ blocking_owner\l+ blocking_export\l+ blocking_refs\l+ pid\l|}" alt="" coords="1676,5720,1817,5909"/>
+<area shape="rect" id="node58" href="$structportals__handle__ops.html" title="{portals_handle_ops\n|+ hop_addref\l+ hop_free\l|}" alt="" coords="3080,683,3229,786"/>
+<area shape="rect" id="node65" href="$structobd__connect__data.html" title="{obd_connect_data\n|+ ocd_connect_flags\l+ ocd_version\l+ ocd_grant\l+ ocd_index\l+ ocd_brw_size\l+ ocd_ibits_known\l+ ocd_grant_blkbits\l+ ocd_grant_inobits\l+ ocd_grant_tax_kb\l+ ocd_grant_max_blks\l+ ocd_transno\l+ ocd_group\l+ ocd_cksum_types\l+ ocd_max_easize\l+ ocd_instance\l+ ocd_maxbytes\l+ ocd_maxmodrpcs\l+ padding0\l+ padding1\l+ ocd_connect_flags2\l+ padding3\l+ padding4\l+ padding5\l+ padding6\l+ padding7\l+ padding8\l+ padding9\l+ paddingA\l+ paddingB\l+ paddingC\l+ paddingD\l+ paddingE\l+ paddingF\l|}" alt="" coords="1516,1720,1687,2360"/>
+<area shape="rect" id="node70" href="$structobd__uuid.html" title="{obd_uuid\n|+ uuid\l|}" alt="" coords="1585,692,1665,777"/>
+<area shape="rect" id="node79" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="916,1997,1028,2083"/>
+<area shape="rect" id="node81" href="$structadaptive__timeout.html" title="{adaptive_timeout\n|+ at_binstart\l+ at_hist\l+ at_flags\l+ at_current\l+ at_worst_ever\l+ at_worst_time\l+ at_lock\l|}" alt="" coords="4185,193,4327,383"/>
+<area shape="rect" id="node146" href="$structldlm__ns__bucket.html" title="{ldlm_ns_bucket\n|+ nsb_namespace\l+ nsb_at_estimate\l+ nsb_reclaim_start\l|}" alt="" coords="4132,675,4287,795"/>
+<area shape="rect" id="node87" href="$structsptlrpc__flavor.html" title="Full description of flavors being used on a ptlrpc connection, include both regular..." alt="" coords="2891,3621,3003,3776"/>
+<area shape="rect" id="node111" href="$structcl__lock__operations.html" title="{cl_lock_operations\n|+ clo_fini\l+ clo_print\l+ clo_enqueue\l+ clo_cancel\l|* clo_enqueue\l* clo_cancel\l}" alt="" coords="5,5737,149,5892"/>
+<area shape="rect" id="node113" href="$structost__lvb.html" title="{ost_lvb\n|+ lvb_size\l+ lvb_mtime\l+ lvb_atime\l+ lvb_ctime\l+ lvb_blocks\l+ lvb_mtime_ns\l+ lvb_atime_ns\l+ lvb_ctime_ns\l+ lvb_padding\l|}" alt="" coords="1987,6484,2115,6708"/>
+<area shape="rect" id="node119" href="$unionldlm__policy__data.html" title="{ldlm_policy_data\n|+ l_extent\l+ l_flock\l+ l_inodebits\l|}" alt="" coords="1681,6001,1812,6121"/>
+<area shape="rect" id="node124" href="$structldlm__extent.html" title="{ldlm_extent\n|+ start\l+ end\l+ gid\l|}" alt="" coords="1533,5755,1637,5875"/>
+<area shape="rect" id="node126" href="$structldlm__inodebits.html" title="{ldlm_inodebits\n|+ bits\l|}" alt="" coords="1841,5772,1959,5857"/>
+<area shape="rect" id="node131" href="$structinterval__node.html" title="{interval_node\n|+ in_left\l+ in_right\l+ in_parent\l+ in_color\l+ in_intree\l+ in_res1\l+ in_res2\l+ in_max_high\l+ in_extent\l|}" alt="" coords="3811,176,3928,400"/>
+<area shape="rect" id="node149" href="$structldlm__interval__tree.html" title="Interval tree for extent locks." alt="" coords="3847,675,3991,795"/>
+<area shape="rect" id="node134" href="$structinterval__node_1_1interval__node__extent.html" title="{interval_node::interval_node_extent\n|+ start\l+ end\l|}" alt="" coords="3735,6,4004,109"/>
+<area shape="rect" id="node152" href="$structldlm__res__id.html" title="{ldlm_res_id\n|+ name\l|}" alt="" coords="4015,692,4108,777"/>
+</map>

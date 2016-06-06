@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__net.html#ga476170376a6f1bb9bb7f85ade4c774f7" title="Set server timelimit for this req, i.e." alt="" coords="193,5,396,35"/>
+<area shape="rect" id="node5" href="$group__net.html#ga60499b3efd5caf2e7bc59c308332aff3" title="Grab additional reference on a request req." alt="" coords="209,59,380,88"/>
+<area shape="rect" id="node7" href="$group__net.html#gad8a1fd19f62cb6e52ee2b145c63f5dd1" title="Requests that are added to the ptlrpcd queue are sent via ptlrpcd_check&#45;&gt;ptlrpc_check_set()..." alt="" coords="231,112,359,141"/>
+</map>

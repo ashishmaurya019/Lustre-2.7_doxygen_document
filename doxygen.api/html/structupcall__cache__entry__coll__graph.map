@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$structmd__identity.html" title="{md_identity\n|+ mi_uc_entry\l+ mi_uid\l+ mi_gid\l+ mi_ginfo\l+ mi_nperms\l+ mi_perms\l|}" alt="" coords="92,467,209,639"/>
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="195,6,277,109"/>
+<area shape="rect" id="node7" href="$structmd__perm.html" title="{md_perm\n|+ mp_nid\l+ mp_perm\l|}" alt="" coords="5,237,104,339"/>
+</map>

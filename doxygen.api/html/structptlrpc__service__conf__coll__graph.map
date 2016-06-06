@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structptlrpc__service__ops.html" title="{ptlrpc_service_ops\n|+ so_thr_init\l+ so_thr_done\l+ so_req_handler\l+ so_hpreq_handler\l+ so_req_printer\l|}" alt="" coords="5,237,157,392"/>
+<area shape="rect" id="node4" href="$structptlrpc__service__cpt__conf.html" title="{ptlrpc_service_cpt_conf\n|+ cc_cptable\l+ cc_pattern\l|}" alt="" coords="181,263,363,366"/>
+<area shape="rect" id="node6" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="205,6,339,143"/>
+<area shape="rect" id="node8" href="$structptlrpc__service__thr__conf.html" title="{ptlrpc_service_thr_conf\n|+ tc_thr_name\l+ tc_thr_factor\l+ tc_nthrs_init\l+ tc_nthrs_base\l+ tc_nthrs_max\l+ tc_nthrs_user\l+ tc_cpu_affinity\l+ tc_ctx_tags\l|}" alt="" coords="387,211,565,418"/>
+<area shape="rect" id="node10" href="$structptlrpc__service__buf__conf.html" title="{ptlrpc_service_buf_conf\n|+ bc_nbufs\l+ bc_buf_size\l+ bc_req_portal\l+ bc_rep_portal\l+ bc_req_max_size\l+ bc_rep_max_size\l|}" alt="" coords="589,229,771,401"/>
+</map>

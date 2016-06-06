@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="194,6,277,109"/>
+<area shape="rect" id="node7" href="$structlstcon__rpc__trans.html" title="{lstcon_rpc_trans\n|+ tas_olink\l+ tas_link\l+ tas_opc\l+ tas_feats_updated\l+ tas_features\l+ tas_waitq\l+ tas_remaining\l+ tas_rpcs_list\l|}" alt="" coords="154,211,317,418"/>
+<area shape="rect" id="node10" href="$structstt__timer__t.html" title="{stt_timer_t\n|+ stt_list\l+ stt_expires\l+ stt_func\l+ stt_data\l|}" alt="" coords="341,246,453,383"/>
+<area shape="rect" id="node5" href="$structlstcon__trans__stat__t.html" title="{lstcon_trans_stat_t\n|+ trs_rpc_stat\l+ trs_rpc_errno\l+ trs_fwk_stat\l+ trs_fwk_errno\l+ trs_fwk_private\l|}" alt="" coords="477,237,631,392"/>
+<area shape="rect" id="node13" href="$structlst__sid__t.html" title="{lst_sid_t\n|+ ses_nid\l+ ses_stamp\l|}" alt="" coords="655,263,765,366"/>
+</map>

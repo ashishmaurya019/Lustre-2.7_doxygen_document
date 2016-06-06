@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlod__qos__oss.html" title="{lod_qos_oss\n|+ lqo_uuid\l+ lqo_oss_list\l+ lqo_bavail\l+ lqo_penalty\l+ lqo_penalty_per_obj\l+ lqo_used\l+ lqo_ost_count\l|}" alt="" coords="72,176,240,365"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,6,88,109"/>
+<area shape="rect" id="node7" href="$structobd__uuid.html" title="{obd_uuid\n|+ uuid\l|}" alt="" coords="169,15,249,100"/>
+</map>

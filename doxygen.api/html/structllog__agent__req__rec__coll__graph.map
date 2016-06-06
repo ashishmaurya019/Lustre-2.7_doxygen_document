@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structllog__rec__tail.html" title="{llog_rec_tail\n|+ lrt_len\l+ lrt_index\l|}" alt="" coords="5,261,107,363"/>
+<area shape="rect" id="node4" href="$structhsm__action__item.html" title="{hsm_action_item\n|+ hai_len\l+ hai_action\l+ hai_fid\l+ hai_dfid\l+ hai_extent\l+ hai_cookie\l+ hai_gid\l+ hai_data\l|}" alt="" coords="131,209,269,415"/>
+<area shape="rect" id="node6" href="$structlu__fid.html" title="File IDentifier." alt="" coords="108,5,180,125"/>
+<area shape="rect" id="node8" href="$structhsm__extent.html" title="{hsm_extent\n|+ offset\l+ length\l|}" alt="" coords="204,14,308,117"/>
+<area shape="rect" id="node10" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="293,243,395,381"/>
+</map>

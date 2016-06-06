@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structkgn__gniparams.html" title="{kgn_gniparams\n|+ gnpr_host_id\l+ gnpr_cqid\l+ gnpr_smsg_attr\l|}" alt="" coords="9,432,151,552"/>
+<area shape="rect" id="node4" href="$structgni__smsg__attr.html" title="{gni_smsg_attr\n|+ msg_type\l+ msg_buffer\l+ buff_size\l+ mem_hndl\l+ mbox_offset\l+ mbox_maxcredit\l+ msg_maxsize\l|}" alt="" coords="5,176,155,365"/>
+<area shape="rect" id="node6" href="$structgni__mem__handle.html" title="{gni_mem_handle\n|+ qword1\l+ qword2\l|}" alt="" coords="13,6,147,109"/>
+<area shape="rect" id="node8" href="$structkgn__nak__data.html" title="{kgn_nak_data\n|+ gnnd_errno\l|}" alt="" coords="175,449,287,535"/>
+</map>

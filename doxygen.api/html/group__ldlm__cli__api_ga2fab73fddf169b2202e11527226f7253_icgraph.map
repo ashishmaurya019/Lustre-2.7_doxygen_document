@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__ldlm__cli__api.html#ga56914f0205e9d377eeceb78f8db71f66" title="Cancel all locks on a resource that have 0 readers/writers." alt="" coords="256,5,499,35"/>
+<area shape="rect" id="node5" href="$group__ldlm__cli__api.html#ga8067f82d5a14a84d1c103d2de469501a" title="Cancel all locks on a namespace (or a specific resource, if given) that have 0 readers/writers..." alt="" coords="547,5,723,35"/>
+</map>

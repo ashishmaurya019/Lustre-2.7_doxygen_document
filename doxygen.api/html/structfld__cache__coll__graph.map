@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structfld__stats.html" title="{fld_stats\n|+ fst_count\l+ fst_cache\l|}" alt="" coords="5,6,107,109"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="131,6,213,109"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="G" name="G">
+<area shape="rect" id="node72" href="$structnrs__tbf__head.html" title="Private data structure for the TBF policy." alt="" coords="933,1669,1088,1979"/>
+<area shape="rect" id="node2" href="$structnrs__tbf__client.html" title="{nrs_tbf_client\n|+ tc_res\l+ tc_hnode\l+ tc_nid\l+ tc_jobid\l+ tc_ref\l+ tc_rule_lock\l+ tc_linkage\l+ tc_rule\l+ tc_rule_generation\l+ tc_rpc_rate\l+ tc_nsecs\l+ tc_ntoken\l+ tc_depth\l+ tc_check_time\l+ tc_list\l+ tc_node\l+ tc_in_heap\l+ tc_rule_sequence\l+ tc_lru\l|}" alt="" coords="1049,2909,1212,3307"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="1775,185,1857,287"/>
+<area shape="rect" id="node10" href="$structptlrpc__nrs__policy.html" title="NRS policy." alt="" coords="2237,379,2379,637"/>
+<area shape="rect" id="node12" href="$structptlrpc__nrs__pol__desc.html" title="NRS policy registering descriptor." alt="" coords="2853,3005,3040,3211"/>
+<area shape="rect" id="node19" href="$structnrs__tbf__req.html" title="{nrs_tbf_req\n|+ tr_list\l+ tr_sequence\l|}" alt="" coords="2984,687,3104,790"/>
+<area shape="rect" id="node34" href="$structnrs__fifo__req.html" title="{nrs_fifo_req\n|+ fr_list\l+ fr_sequence\l|}" alt="" coords="3312,687,3429,790"/>
+<area shape="rect" id="node39" href="$structptlrpc__nrs.html" title="NRS head." alt="" coords="1913,927,2073,1220"/>
+<area shape="rect" id="node42" href="$structptlrpc__service__part.html" title="Definition of PortalRPC service partition data." alt="" coords="1639,1409,1833,2239"/>
+<area shape="rect" id="node47" href="$structptlrpc__service.html" title="Definition of PortalRPC service." alt="" coords="1420,2323,1625,2842"/>
+<area shape="rect" id="node64" href="$structptlrpc__at__array.html" title="{ptlrpc_at_array\n|+ paa_reqs_array\l+ paa_size\l+ paa_count\l+ paa_deadline\l+ paa_reqs_count\l|}" alt="" coords="1517,661,1659,816"/>
+<area shape="rect" id="node69" href="$structnrs__tbf__rule.html" title="{nrs_tbf_rule\n|+ tr_name\l+ tr_head\l+ tr_linkage\l+ tr_nids\l+ tr_nids_str\l+ tr_jobids\l+ tr_jobids_str\l+ tr_rpc_rate\l+ tr_nsecs\l+ tr_depth\l+ tr_rule_lock\l+ tr_cli_list\l+ tr_flags\l+ tr_ref\l+ tr_generation\l|}" alt="" coords="981,2419,1109,2747"/>
+<area shape="rect" id="node78" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="528,431,653,585"/>
+<area shape="rect" id="node7" href="$structptlrpc__nrs__resource.html" title="NRS resource." alt="" coords="2441,1022,2596,1125"/>
+<area shape="rect" id="node16" href="$structptlrpc__nrs__request.html" title="NRS request." alt="" coords="2984,1677,3131,1971"/>
+<area shape="rect" id="node14" href="$structptlrpc__nrs__pol__ops.html" title="NRS policy operations." alt="" coords="2984,2436,3131,2729"/>
+<area shape="rect" id="node22" href="$structnrs__crrn__req.html" title="CRR&#45;N NRS request definition." alt="" coords="2971,1022,3093,1125"/>
+<area shape="rect" id="node24" href="$structnrs__orr__req.html" title="ORR/TRR NRS request definition." alt="" coords="3187,970,3325,1177"/>
+<area shape="rect" id="node26" href="$structnrs__orr__key.html" title="As unique keys for grouping RPCs together, we use the object&#39;s OST FID for the..." alt="" coords="3288,448,3387,568"/>
+<area shape="rect" id="node28" href="$structlu__fid.html" title="File IDentifier." alt="" coords="3301,176,3373,296"/>
+<area shape="rect" id="node30" href="$structnrs__orr__req__range.html" title="Lower and upper byte offsets of a brw RPC." alt="" coords="3072,457,3213,559"/>
+<area shape="rect" id="node32" href="$structcfs__binheap__node.html" title="Binary heap node." alt="" coords="1360,465,1501,551"/>
+<area shape="rect" id="node99" href="$structcfs__binheap.html" title="Binary heap object." alt="" coords="1048,953,1187,1194"/>
+<area shape="rect" id="node45" href="$structadaptive__timeout.html" title="{adaptive_timeout\n|+ at_binstart\l+ at_hist\l+ at_flags\l+ at_current\l+ at_worst_ever\l+ at_worst_time\l+ at_lock\l|}" alt="" coords="1748,979,1889,1168"/>
+<area shape="rect" id="node50" href="$structlprocfs__stats.html" title="{lprocfs_stats\n|+ ls_num\l+ ls_biggest_alloc_num\l+ ls_flags\l+ ls_lock\l+ ls_cnt_header\l+ ls_percpu\l|}" alt="" coords="2085,1738,2261,1910"/>
+<area shape="rect" id="node52" href="$structlprocfs__percpu.html" title="{lprocfs_percpu\n|+ lp_cntr\l|}" alt="" coords="2300,1031,2417,1116"/>
+<area shape="rect" id="node54" href="$structlprocfs__counter.html" title="{lprocfs_counter\n|+ lc_count\l+ lc_min\l+ lc_max\l+ lc_sumsquare\l+ lc_array_sum\l|}" alt="" coords="2088,431,2213,585"/>
+<area shape="rect" id="node56" href="$structlprocfs__counter__header.html" title="{lprocfs_counter_header\n|+ lc_config\l+ lc_name\l+ lc_units\l|}" alt="" coords="2097,1013,2276,1133"/>
+<area shape="rect" id="node58" href="$structptlrpc__service__ops.html" title="{ptlrpc_service_ops\n|+ so_thr_init\l+ so_thr_done\l+ so_req_handler\l+ so_hpreq_handler\l+ so_req_printer\l|}" alt="" coords="1312,1747,1464,1901"/>
+<area shape="rect" id="node61" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="1203,439,1336,577"/>
+<area shape="rect" id="node74" href="$structcfs__hash.html" title="cfs_hash is a hash&#45;table implementation for general purpose, it can support: ." alt="" coords="729,840,892,1307"/>
+<area shape="rect" id="node76" href="$unioncfs__hash__lock.html" title="{cfs_hash_lock\n|+ rw\l+ spin\l|}" alt="" coords="300,185,412,287"/>
+<area shape="rect" id="node81" href="$structcfs__hash__bucket.html" title="cfs_hash_bucket is a container of:lock, counter ." alt="" coords="223,422,356,594"/>
+<area shape="rect" id="node84" href="$structcfs__hash__hlist__ops.html" title="{cfs_hash_hlist_ops\n|+ hop_hhead\l+ hop_hhead_size\l+ hop_hnode_add\l+ hop_hnode_del\l|}" alt="" coords="55,439,199,577"/>
+<area shape="rect" id="node86" href="$structhlist__head.html" title="{hlist_head\n|+ first\l|}" alt="" coords="61,193,152,279"/>
+<area shape="rect" id="node88" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="5,6,96,109"/>
+<area shape="rect" id="node91" href="$structcfs__hash__lock__ops.html" title="{cfs_hash_lock_ops\n|+ hs_lock\l+ hs_unlock\l+ hs_bkt_lock\l+ hs_bkt_unlock\l|}" alt="" coords="677,439,819,577"/>
+<area shape="rect" id="node93" href="$structcfs__hash__ops.html" title="{cfs_hash_ops\n|+ hs_hash\l+ hs_key\l+ hs_keycpy\l+ hs_keycmp\l+ hs_object\l+ hs_get\l+ hs_put\l+ hs_put_locked\l+ hs_exit\l|}" alt="" coords="843,396,973,620"/>
+<area shape="rect" id="node103" href="$structcfs__binheap__ops.html" title="Binary heap operations." alt="" coords="1048,448,1179,568"/>
+</map>

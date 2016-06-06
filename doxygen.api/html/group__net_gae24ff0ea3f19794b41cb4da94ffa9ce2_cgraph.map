@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__ha.html#gaf20ae4ef40ab6633e816a6b842697203" title="Schedule resending of request on sending_list." alt="" coords="365,5,480,35"/>
+<area shape="rect" id="node5" href="$group__ha.html#ga903dde67851aeb4d8fa5869641a95c34" title="Go through all requests in delayed list and wake their threads for resending." alt="" coords="341,59,504,88"/>
+</map>

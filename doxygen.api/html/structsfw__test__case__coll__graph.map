@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="257,23,340,126"/>
+<area shape="rect" id="node9" href="$structsrpc__service__cd.html" title="{srpc_service_cd\n|+ scd_lock\l+ scd_svc\l+ scd_ev\l+ scd_rpc_free\l+ scd_rpc_active\l+ scd_buf_wi\l+ scd_cpt\l+ scd_buf_err\l+ scd_buf_err_stamp\l+ scd_buf_total\l+ scd_buf_nposted\l+ scd_buf_posting\l+ scd_buf_low\l+ scd_buf_adjust\l+ scd_buf_posted\l+ scd_buf_blocked\l|}" alt="" coords="248,862,411,1207"/>
+<area shape="rect" id="node22" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="167,307,292,461"/>
+<area shape="rect" id="node5" href="$structsfw__test__client__ops__t.html" title="{sfw_test_client_ops_t\n|+ tso_init\l+ tso_fini\l+ tso_prep_rpc\l+ tso_done_rpc\l|}" alt="" coords="553,1310,724,1447"/>
+<area shape="rect" id="node7" href="$structsrpc__service.html" title="{srpc_service\n|+ sv_id\l+ sv_name\l+ sv_wi_total\l+ sv_shuttingdown\l+ sv_ncpts\l+ sv_cpt_data\l+ sv_handler\l+ sv_bulk_ready\l|}" alt="" coords="316,1275,465,1482"/>
+<area shape="rect" id="node12" href="$structsrpc__event__t.html" title="{srpc_event_t\n|+ ev_type\l+ ev_lnet\l+ ev_fired\l+ ev_status\l+ ev_data\l|}" alt="" coords="367,640,479,795"/>
+<area shape="rect" id="node15" href="$structswi__workitem.html" title="{swi_workitem\n|+ swi_sched\l+ swi_workitem\l+ swi_action\l+ swi_state\l|}" alt="" coords="144,649,269,786"/>
+<area shape="rect" id="node20" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="5,6,139,143"/>
+</map>

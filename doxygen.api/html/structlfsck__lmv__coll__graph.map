@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlfsck__slave__lmv__rec.html" title="{lfsck_slave_lmv_rec\n|+ lslr_fid\l+ lslr_stripe_count\l+ lslr_index\l+ lslr_hash_type\l+ lslr_flags\l|}" alt="" coords="5,236,160,391"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="161,5,233,125"/>
+<area shape="rect" id="node6" href="$structlmv__mds__md__v1.html" title="{lmv_mds_md_v1\n|+ lmv_magic\l+ lmv_stripe_count\l+ lmv_master_mdt_index\l+ lmv_hash_type\l+ lmv_layout_version\l+ lmv_padding1\l+ lmv_padding2\l+ lmv_padding3\l+ lmv_pool_name\l+ lmv_stripe_fids\l|}" alt="" coords="184,193,379,434"/>
+</map>

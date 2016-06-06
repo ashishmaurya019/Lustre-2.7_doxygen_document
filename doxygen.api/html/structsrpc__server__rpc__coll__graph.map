@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="169,23,252,126"/>
+<area shape="rect" id="node14" href="$structsrpc__buffer.html" title="{srpc_buffer\n|+ buf_list\l+ buf_msg\l+ buf_mdh\l+ buf_self\l+ buf_peer\l|}" alt="" coords="521,1339,617,1493"/>
+<area shape="rect" id="node22" href="$structsrpc__service__cd.html" title="{srpc_service_cd\n|+ scd_lock\l+ scd_svc\l+ scd_ev\l+ scd_rpc_free\l+ scd_rpc_active\l+ scd_buf_wi\l+ scd_cpt\l+ scd_buf_err\l+ scd_buf_err_stamp\l+ scd_buf_total\l+ scd_buf_nposted\l+ scd_buf_posting\l+ scd_buf_low\l+ scd_buf_adjust\l+ scd_buf_posted\l+ scd_buf_blocked\l|}" alt="" coords="73,1243,236,1589"/>
+<area shape="rect" id="node36" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="148,307,273,461"/>
+<area shape="rect" id="node5" href="$structlnet__handle__any__t.html" title="Objects maintained by the LNet are accessed through handles." alt="" coords="1012,865,1156,951"/>
+<area shape="rect" id="node9" href="$structsrpc__bulk__t.html" title="{srpc_bulk_t\n|+ bk_len\l+ bk_mdh\l+ bk_sink\l+ bk_niov\l+ bk_iovs\l|}" alt="" coords="1115,1339,1211,1493"/>
+<area shape="rect" id="node7" href="$structsrpc__event__t.html" title="{srpc_event_t\n|+ ev_type\l+ ev_lnet\l+ ev_fired\l+ ev_status\l+ ev_data\l|}" alt="" coords="152,831,264,985"/>
+<area shape="rect" id="node12" href="$structlnet__kiov__t.html" title="A page&#45;based fragment of a MD." alt="" coords="1180,848,1289,968"/>
+<area shape="rect" id="node18" href="$structsrpc__msg.html" title="{srpc_msg\n|+ msg_magic\l+ msg_version\l+ msg_type\l+ msg_reserved0\l+ msg_reserved1\l+ msg_ses_feats\l+ reqst\l+ reply\l+ mksn_reqst\l+ mksn_reply\l+ rmsn_reqst\l+ rmsn_reply\l+ dbg_reqst\l+ dbg_reply\l+ bat_reqst\l+ bat_reply\l+ stat_reqst\l+ stat_reply\l+ tes_reqst\l+ tes_reply\l+ join_reqst\l+ join_reply\l+ ping_reqst\l+ ping_reply\l+ brw_reqst\l+ brw_reply\l+ msg_body\l|}" alt="" coords="719,640,857,1176"/>
+<area shape="rect" id="node20" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="524,857,663,959"/>
+<area shape="rect" id="node26" href="$structsrpc__service.html" title="{srpc_service\n|+ sv_id\l+ sv_name\l+ sv_wi_total\l+ sv_shuttingdown\l+ sv_ncpts\l+ sv_cpt_data\l+ sv_handler\l+ sv_bulk_ready\l|}" alt="" coords="5,1699,155,1906"/>
+<area shape="rect" id="node29" href="$structswi__workitem.html" title="{swi_workitem\n|+ swi_sched\l+ swi_workitem\l+ swi_action\l+ swi_state\l|}" alt="" coords="301,839,427,977"/>
+<area shape="rect" id="node34" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="333,6,467,143"/>
+</map>

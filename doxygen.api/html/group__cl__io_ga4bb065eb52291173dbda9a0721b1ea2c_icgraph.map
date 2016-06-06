@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__page.html#ga77a2e8592e58cc9c514cb4ac38a9d2f4" title="Assume page ownership." alt="" coords="141,67,272,96"/>
+<area shape="rect" id="node11" href="$group__cl__page.html#gae41a4c98faae723b2566a721b6e4b7fb" title="Releases page ownership." alt="" coords="343,112,468,141"/>
+<area shape="rect" id="node17" href="$group__cl__page.html#gabf5979233c47e0913f8d438d01051ebf" title="returns true, iff page is owned by the given io." alt="" coords="136,212,277,241"/>
+<area shape="rect" id="node30" href="$group__cl__page.html#ga4e7db1845b76bea8277b4e3d2a482f61" title="Releases page ownership without unlocking the page." alt="" coords="332,325,479,355"/>
+<area shape="rect" id="node5" href="$group__cl__page__list.html#ga321527c28a251fead1c4d8e7967da693" title="Assumes all pages in a queue." alt="" coords="327,59,484,88"/>
+<area shape="rect" id="node7" href="$group__cl__page__list.html#gaf1c12344f300cfdabbaabba9544db1da" title="Assume to own the pages in cl_2queue." alt="" coords="536,5,685,35"/>
+<area shape="rect" id="node9" href="$group__cl__io.html#ga575a43e2ec65ba4aa6c926cf5e49fe70" title="Submit a sync_io and wait for the IO to be finished, or error happens." alt="" coords="540,59,681,88"/>
+<area shape="rect" id="node13" href="$group__osc.html#gacad2bab69d5c52c6248c0b76fcf1e93a" title="Drop &#160;of pages from LRU at most." alt="" coords="555,112,667,141"/>
+<area shape="rect" id="node15" href="$group__osc.html#ga084c788be8d116db87ebdd3c273d9a23" title="Scan and try to reclaim sc&#45;&gt;nr_to_scan cached LRU pages." alt="" coords="736,112,912,141"/>
+<area shape="rect" id="node19" href="$group__cl__page.html#ga775efaa18bd22d404f7588fd35f6cd03" title="Called when page is to be removed from the object, e.g., as a result of truncate..." alt="" coords="343,165,468,195"/>
+<area shape="rect" id="node26" href="$group__cl__page.html#ga0616bcd8605ed9a75e799f64bcdd5a2d" title="Called if a pge is being written back by kernel&#39;s intention." alt="" coords="349,219,461,248"/>
+<area shape="rect" id="node28" href="$group__cl__page.html#ga8216a843e48aa6d45d049b6aacb13744" title="Prepares page for immediate transfer." alt="" coords="351,272,460,301"/>
+<area shape="rect" id="node21" href="$group__cl__page__list.html#gabe8fbe4bdda923be3d8ee245549230f8" title="Discards all pages in a queue." alt="" coords="533,165,688,195"/>
+<area shape="rect" id="node23" href="$group__cl__page__list.html#gab47261ab07f2e439b306dccb18a0980e" title="Discard (truncate) pages in both lists of a 2&#45;queue." alt="" coords="752,165,896,195"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structllog__rec__tail.html" title="{llog_rec_tail\n|+ lrt_len\l+ lrt_index\l|}" alt="" coords="5,278,107,381"/>
+<area shape="rect" id="node4" href="$structchangelog__rec.html" title="{changelog_rec\n|+ cr_namelen\l+ cr_flags\l+ cr_type\l+ cr_index\l+ cr_prev\l+ cr_time\l+ cr_tfid\l+ cr_markerflags\l+ @45\l+ cr_pfid\l|}" alt="" coords="131,209,264,450"/>
+<area shape="rect" id="node6" href="$structlu__fid.html" title="File IDentifier." alt="" coords="161,5,233,125"/>
+<area shape="rect" id="node8" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="288,261,389,398"/>
+</map>

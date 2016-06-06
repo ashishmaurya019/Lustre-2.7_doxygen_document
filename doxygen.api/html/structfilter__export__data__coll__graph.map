@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structtg__export__data.html" title="Target&#45;specific export data." alt="" coords="451,913,643,1189"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="505,31,588,134"/>
+<area shape="rect" id="node7" href="$structtg__reply__data.html" title="Target reply data." alt="" coords="651,227,797,381"/>
+<area shape="rect" id="node12" href="$structlu__nodemap.html" title="The nodemap id 0 will be the default nodemap." alt="" coords="101,465,299,845"/>
+<area shape="rect" id="node18" href="$structnodemap__pde.html" title="{nodemap_pde\n|+ npe_name\l+ npe_proc_entry\l+ npe_list_member\l|}" alt="" coords="183,244,335,364"/>
+<area shape="rect" id="node10" href="$structlsd__reply__data.html" title="{lsd_reply_data\n|+ lrd_transno\l+ lrd_xid\l+ lrd_data\l+ lrd_result\l+ lrd_client_gen\l|}" alt="" coords="832,5,960,160"/>
+<area shape="rect" id="node15" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="5,253,96,355"/>
+<area shape="rect" id="node21" href="$structlsd__client__data.html" title="{lsd_client_data\n|+ lcd_uuid\l+ lcd_last_transno\l+ lcd_last_xid\l+ lcd_last_result\l+ lcd_last_data\l+ lcd_last_close_transno\l+ lcd_last_close_xid\l+ lcd_last_close_result\l+ lcd_last_close_data\l+ lcd_pre_versions\l+ lcd_last_epoch\l+ lcd_generation\l+ lcd_padding\l|}" alt="" coords="323,508,509,801"/>
+</map>

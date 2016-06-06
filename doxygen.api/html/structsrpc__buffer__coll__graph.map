@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,222,88,325"/>
+<area shape="rect" id="node5" href="$structlnet__handle__any__t.html" title="Objects maintained by the LNet are accessed through handles." alt="" coords="169,231,313,316"/>
+<area shape="rect" id="node7" href="$structsrpc__msg.html" title="{srpc_msg\n|+ msg_magic\l+ msg_version\l+ msg_type\l+ msg_reserved0\l+ msg_reserved1\l+ msg_ses_feats\l+ reqst\l+ reply\l+ mksn_reqst\l+ mksn_reply\l+ rmsn_reqst\l+ rmsn_reply\l+ dbg_reqst\l+ dbg_reply\l+ bat_reqst\l+ bat_reply\l+ stat_reqst\l+ stat_reply\l+ tes_reqst\l+ tes_reply\l+ join_reqst\l+ join_reply\l+ ping_reqst\l+ ping_reply\l+ brw_reqst\l+ brw_reply\l+ msg_body\l|}" alt="" coords="337,5,476,541"/>
+<area shape="rect" id="node9" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="500,222,639,325"/>
+</map>

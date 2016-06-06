@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__net.html#ga2bf080a905f488f676248838514e264a" title="Allocate new request structure for import imp and initialize its buffer structure..." alt="" coords="249,5,407,35"/>
+<area shape="rect" id="node5" href="$group__net.html#ga35e91945e5dfe7314c1b31519907929f" title="For requests not from pool, free memory of the request structure." alt="" coords="251,59,405,88"/>
+<area shape="rect" id="node7" href="$group__net.html#gad8a1fd19f62cb6e52ee2b145c63f5dd1" title="Requests that are added to the ptlrpcd queue are sent via ptlrpcd_check&#45;&gt;ptlrpc_check_set()..." alt="" coords="264,112,392,141"/>
+<area shape="rect" id="node9" href="$group__req__layout.html#ga6d0a3a11367bcd9fe40dc723243e7b0d" title="Set the size of the PTLRPC request/reply (loc) buffer for the given field of the..." alt="" coords="245,165,411,195"/>
+<area shape="rect" id="node11" href="$group__sptlrpc.html#ga01235b3d6bd59ff6adee314742be930b" title="To get an appropriate ptlrpc_sec for the imp, according to the current configuration..." alt="" coords="231,219,425,248"/>
+</map>

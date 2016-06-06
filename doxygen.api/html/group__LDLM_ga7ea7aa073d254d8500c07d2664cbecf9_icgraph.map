@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__ldlm__handles.html#ga79665fefb3834e7ea72e9d8aacdad4d2" title="Obtain a lock reference by handle." alt="" coords="224,8,371,37"/>
+<area shape="rect" id="node9" href="$group__LDLM.html#gad236a9af5f0845e1046060a55419914b" title="Decrease reader/writer refcount for LDLM lock with handle lockh and mark it for subsequent..." alt="" coords="449,59,663,88"/>
+<area shape="rect" id="node11" href="$group__ldlm__local__ast.html#gacc93548bb07532aa1d816dee71bd2ecb" title="Server blocking AST." alt="" coords="736,136,875,165"/>
+<area shape="rect" id="node14" href="$group__LDLM.html#ga0a466989372b56e3cde1edae472be066" title="Helper function to call blocking AST for LDLM lock lock in a &quot;cancelling&quot;..." alt="" coords="217,267,377,296"/>
+<area shape="rect" id="node16" href="$group__LDLM.html#gadec8a773eb3b13c995cf35a4d013393b" title="Attempts to cancel LDLM lock lock that has no reader/writer references." alt="" coords="489,241,623,271"/>
+<area shape="rect" id="node26" href="$group__ldlm__cli__api.html#ga0237477d402999ab81f2b2447fceebc9" title="Client side lock cancel." alt="" coords="237,163,357,192"/>
+<area shape="rect" id="node31" href="$group__ldlm__cli__api.html#gac421005283912bb5186b035013aa58c0" title="Finishing portion of client lock enqueue code." alt="" coords="475,400,637,429"/>
+<area shape="rect" id="node35" href="$group__LDLM.html#ga921f8d85541cbe1fa330b9a12080103f" title="Flock completion callback function." alt="" coords="199,371,396,400"/>
+<area shape="rect" id="node37" href="$group__LDLM.html#ga580d951cff91ebd5c1d2a7588d4c2ea3" title="Attempts to add reader/writer reference to a lock with handle lockh, and fails if..." alt="" coords="219,424,376,453"/>
+<area shape="rect" id="node39" href="$group__LDLM.html#ga9e8b401ed51dda94f553670e73872135" title="Mark lock as &quot;matchable&quot; by OST." alt="" coords="211,477,384,507"/>
+<area shape="rect" id="node42" href="$group__LDLM.html#gafd6a07a826f7d2789696e472dd81adc2" title="Moves LDLM lock lock to another resource." alt="" coords="196,531,399,560"/>
+<area shape="rect" id="node45" href="$group__LDLM.html#gaeeab5a5dbe0a5b966d52f388b69eed3f" title="Attempt to convert already granted lock to a different mode." alt="" coords="227,584,368,613"/>
+<area shape="rect" id="node48" href="$group__LDLM.html#ga833125f7d72f8e77cb16c031c56dd2a0" title="Destroys a LDLM lock lock." alt="" coords="227,637,368,667"/>
+<area shape="rect" id="node50" href="$group__LDLM.html#ga1ae32c9c745cefc485fd39cf0054e2ef" title="Downgrade an exclusive lock." alt="" coords="216,691,379,720"/>
+<area shape="rect" id="node5" href="$group__LDLM.html#ga82ed1d0d1d2788cad8813e69df77d625" title="Decrease reader/writer refcount for LDLM lock with handle lockh." alt="" coords="489,5,623,35"/>
+<area shape="rect" id="node7" href="$group__net.html#ga686ce1d3f4b5ce9b59e59136cb6b265c" title="Part of Rep&#45;Ack logic." alt="" coords="739,5,872,35"/>
+<area shape="rect" id="node18" href="$group__ldlm__cli__api.html#gac7dcd18ff549bf7b777a067e1c374149" title="Locally cancel up to count locks in list cancels." alt="" coords="713,241,897,271"/>
+<area shape="rect" id="node20" href="$group__ldlm__cli__api.html#ga2fab73fddf169b2202e11527226f7253" title="Find and cancel locally unused locks found on resource, matched to the given policy..." alt="" coords="947,241,1149,271"/>
+<area shape="rect" id="node22" href="$group__ldlm__cli__api.html#ga56914f0205e9d377eeceb78f8db71f66" title="Cancel all locks on a resource that have 0 readers/writers." alt="" coords="1197,241,1440,271"/>
+<area shape="rect" id="node24" href="$group__ldlm__cli__api.html#ga8067f82d5a14a84d1c103d2de469501a" title="Cancel all locks on a namespace (or a specific resource, if given) that have 0 readers/writers..." alt="" coords="1488,241,1664,271"/>
+<area shape="rect" id="node28" href="$group__ldlm__local__ast.html#ga9962ac0cc2bd7e279cf0b977d822feb3" title="A helper to build a blocking AST function." alt="" coords="456,163,656,192"/>
+<area shape="rect" id="node33" href="$group__ldlm__cli__api.html#gac3edcad1b11e283d6ef8455a2b598b07" title="Client&#45;side lock enqueue." alt="" coords="737,400,873,429"/>
+</map>

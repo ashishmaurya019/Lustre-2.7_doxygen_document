@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsfw__test__instance.html" title="{sfw_test_instance\n|+ tsi_list\l+ tsi_service\l+ tsi_batch\l+ tsi_ops\l+ tsi_is_client\l+ tsi_stoptsu_onerr\l+ tsi_concur\l+ tsi_loop\l+ tsi_lock\l+ tsi_stopping\l+ tsi_nactive\l+ tsi_units\l+ tsi_free_rpcs\l+ tsi_active_rpcs\l+ ping\l+ bulk_v0\l+ bulk_v1\l+ tsi_u\l|}" alt="" coords="329,1190,484,1570"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="524,23,607,126"/>
+<area shape="rect" id="node9" href="$structsfw__batch__t.html" title="{sfw_batch_t\n|+ bat_list\l+ bat_id\l+ bat_error\l+ bat_session\l+ bat_nactive\l+ bat_tests\l|}" alt="" coords="288,950,405,1122"/>
+<area shape="rect" id="node11" href="$structsfw__session__t.html" title="{sfw_session_t\n|+ sn_list\l+ sn_id\l+ sn_timeout\l+ sn_timer_active\l+ sn_features\l+ sn_timer\l+ sn_batches\l+ sn_name\l+ sn_refcount\l+ sn_brw_errors\l+ sn_ping_errors\l+ sn_started\l|}" alt="" coords="275,606,419,882"/>
+<area shape="rect" id="node14" href="$structstt__timer__t.html" title="{stt_timer_t\n|+ stt_list\l+ stt_expires\l+ stt_func\l+ stt_data\l|}" alt="" coords="291,315,403,453"/>
+<area shape="rect" id="node32" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="653,307,779,461"/>
+<area shape="rect" id="node7" href="$structsfw__test__client__ops__t.html" title="{sfw_test_client_ops_t\n|+ tso_init\l+ tso_fini\l+ tso_prep_rpc\l+ tso_done_rpc\l|}" alt="" coords="93,967,264,1105"/>
+<area shape="rect" id="node17" href="$structlst__sid__t.html" title="{lst_sid_t\n|+ ses_nid\l+ ses_stamp\l|}" alt="" coords="157,333,267,435"/>
+<area shape="rect" id="node20" href="$structlst__bid__t.html" title="{lst_bid_t\n|+ bat_id\l|}" alt="" coords="5,701,83,787"/>
+<area shape="rect" id="node23" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="653,1329,792,1431"/>
+<area shape="rect" id="node25" href="$structswi__workitem.html" title="{swi_workitem\n|+ swi_sched\l+ swi_workitem\l+ swi_action\l+ swi_state\l|}" alt="" coords="767,675,892,813"/>
+<area shape="rect" id="node30" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="804,6,937,143"/>
+</map>

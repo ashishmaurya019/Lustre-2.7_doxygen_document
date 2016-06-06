@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structinterval__node.html" title="{interval_node\n|+ in_left\l+ in_right\l+ in_parent\l+ in_color\l+ in_intree\l+ in_res1\l+ in_res2\l+ in_max_high\l+ in_extent\l|}" alt="" coords="81,176,199,400"/>
+<area shape="rect" id="node5" href="$structinterval__node_1_1interval__node__extent.html" title="{interval_node::interval_node_extent\n|+ start\l+ end\l|}" alt="" coords="5,6,275,109"/>
+</map>

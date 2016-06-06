@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$structsrpc__service.html" title="{srpc_service\n|+ sv_id\l+ sv_name\l+ sv_wi_total\l+ sv_shuttingdown\l+ sv_ncpts\l+ sv_cpt_data\l+ sv_handler\l+ sv_bulk_ready\l|}" alt="" coords="273,1275,423,1482"/>
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="227,23,309,126"/>
+<area shape="rect" id="node17" href="$structcfs__workitem.html" title="{cfs_workitem\n|+ wi_list\l+ wi_action\l+ wi_data\l+ wi_running\l+ wi_scheduled\l|}" alt="" coords="185,307,311,461"/>
+<area shape="rect" id="node5" href="$structsrpc__event__t.html" title="{srpc_event_t\n|+ ev_type\l+ ev_lnet\l+ ev_fired\l+ ev_status\l+ ev_data\l|}" alt="" coords="385,640,497,795"/>
+<area shape="rect" id="node10" href="$structswi__workitem.html" title="{swi_workitem\n|+ swi_sched\l+ swi_workitem\l+ swi_action\l+ swi_state\l|}" alt="" coords="163,649,288,786"/>
+<area shape="rect" id="node15" href="$structcfs__cpt__table.html" title="{cfs_cpt_table\n|+ ctb_nparts\l+ ctb_mask\l+ ctb_nodemask\l+ ctb_version\l|}" alt="" coords="5,6,139,143"/>
+</map>

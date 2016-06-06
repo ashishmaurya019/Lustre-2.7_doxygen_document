@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlnet__reply.html" title="{lnet_reply\n|+ dst_wmd\l|}" alt="" coords="5,92,101,177"/>
+<area shape="rect" id="node4" href="$structlnet__put.html" title="{lnet_put\n|+ ack_wmd\l+ match_bits\l+ hdr_data\l+ ptl_index\l+ offset\l|}" alt="" coords="125,57,237,212"/>
+<area shape="rect" id="node6" href="$structlnet__counters.html" title="{lnet_counters\n|+ msgs_alloc\l+ msgs_max\l+ errors\l+ send_count\l+ recv_count\l+ route_count\l+ drop_count\l+ send_length\l+ recv_length\l+ route_length\l+ drop_length\l|}" alt="" coords="261,5,384,264"/>
+<area shape="rect" id="node8" href="$structgni__mem__handle.html" title="{gni_mem_handle\n|+ qword1\l+ qword2\l|}" alt="" coords="408,83,541,186"/>
+<area shape="rect" id="node10" href="$structlst__bid__t.html" title="{lst_bid_t\n|+ bat_id\l|}" alt="" coords="565,92,643,177"/>
+<area shape="rect" id="node12" href="$structlst__sid__t.html" title="{lst_sid_t\n|+ ses_nid\l+ ses_stamp\l|}" alt="" coords="667,83,776,186"/>
+<area shape="rect" id="node14" href="$structkib__connparams.html" title="{kib_connparams\n|+ ibcp_queue_depth\l+ ibcp_max_frags\l+ ibcp_max_msg_size\l|}" alt="" coords="800,75,968,195"/>
+<area shape="rect" id="node16" href="$structlnet__hello.html" title="{lnet_hello\n|+ incarnation\l+ type\l|}" alt="" coords="992,83,1101,186"/>
+<area shape="rect" id="node18" href="$structlnet__get.html" title="{lnet_get\n|+ return_wmd\l+ match_bits\l+ ptl_index\l+ src_offset\l+ sink_length\l|}" alt="" coords="1125,57,1243,212"/>
+<area shape="rect" id="node20" href="$structlnet__ack.html" title="{lnet_ack\n|+ dst_wmd\l+ match_bits\l+ mlength\l|}" alt="" coords="1267,75,1379,195"/>
+</map>

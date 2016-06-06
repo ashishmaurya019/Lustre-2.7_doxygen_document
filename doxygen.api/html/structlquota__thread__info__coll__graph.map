@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlustre__mdt__attrs.html" title="Following struct for object attributes, that will be kept inode&#39;s EA." alt="" coords="103,341,239,461"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="40,32,112,152"/>
+<area shape="rect" id="node6" href="$structdt__object__format.html" title="object format specifier." alt="" coords="263,298,404,505"/>
+<area shape="rect" id="node8" href="$structdt__index__features.html" title="{dt_index_features\n|+ dif_flags\l+ dif_keysize_min\l+ dif_keysize_max\l+ dif_recsize_min\l+ dif_recsize_max\l+ dif_ptrsize\l|}" alt="" coords="174,6,320,178"/>
+<area shape="rect" id="node10" href="$unionlquota__rec.html" title="{lquota_rec\n|+ lqr_glb_rec\l+ lqr_slv_rec\l+ lqr_acct_rec\l|}" alt="" coords="428,341,546,461"/>
+<area shape="rect" id="node12" href="$structlquota__slv__rec.html" title="{lquota_slv_rec\n|+ qsr_granted\l|}" alt="" coords="344,49,462,135"/>
+<area shape="rect" id="node14" href="$structlquota__acct__rec.html" title="{lquota_acct_rec\n|+ bspace\l+ ispace\l|}" alt="" coords="486,41,616,143"/>
+<area shape="rect" id="node16" href="$structlquota__glb__rec.html" title="{lquota_glb_rec\n|+ qbr_hardlimit\l+ qbr_softlimit\l+ qbr_time\l+ qbr_granted\l|}" alt="" coords="640,23,763,161"/>
+<area shape="rect" id="node18" href="$structlu__attr.html" title="Common object attributes." alt="" coords="570,246,668,557"/>
+<area shape="rect" id="node21" href="$structlu__buf.html" title="Common buffer structure to be passed around for various xattr_{s,g}et() methods." alt="" coords="692,350,767,453"/>
+</map>

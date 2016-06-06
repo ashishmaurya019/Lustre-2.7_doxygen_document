@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="16,6,99,109"/>
+<area shape="rect" id="node5" href="$structlnet__rtrbufpool__t.html" title="{lnet_rtrbufpool_t\n|+ rbp_bufs\l+ rbp_msgs\l+ rbp_npages\l+ rbp_req_nbuffers\l+ rbp_nbuffers\l+ rbp_credits\l+ rbp_mincredits\l|}" alt="" coords="78,192,224,381"/>
+<area shape="rect" id="node8" href="$structlnet__kiov__t.html" title="A page&#45;based fragment of a MD." alt="" coords="248,227,358,347"/>
+</map>

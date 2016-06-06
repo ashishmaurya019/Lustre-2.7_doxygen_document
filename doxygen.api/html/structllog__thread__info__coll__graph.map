@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structdt__object__format.html" title="object format specifier." alt="" coords="8,877,149,1083"/>
+<area shape="rect" id="node4" href="$structdt__index__features.html" title="{dt_index_features\n|+ dif_flags\l+ dif_keysize_min\l+ dif_keysize_max\l+ dif_recsize_min\l+ dif_recsize_max\l+ dif_ptrsize\l|}" alt="" coords="5,585,152,757"/>
+<area shape="rect" id="node6" href="$structlu__attr.html" title="Common object attributes." alt="" coords="173,825,272,1135"/>
+<area shape="rect" id="node8" href="$structdt__insert__rec.html" title="{dt_insert_rec\n|+ rec_fid\l+ rec_data\l+ @11\l+ rec_type\l+ rec_padding\l+ rec_misc\l+ @13\l|}" alt="" coords="329,371,444,560"/>
+<area shape="rect" id="node10" href="$structlu__fid.html" title="File IDentifier." alt="" coords="351,5,423,125"/>
+<area shape="rect" id="node21" href="$structost__id.html" title="OST object IDentifier." alt="" coords="433,192,511,347"/>
+<area shape="rect" id="node13" href="$structllog__logid__rec.html" title="{llog_logid_rec\n|+ lid_hdr\l+ lid_id\l+ lid_padding1\l+ lid_padding2\l+ lid_padding3\l+ lid_tail\l|}" alt="" coords="556,894,671,1066"/>
+<area shape="rect" id="node15" href="$structllog__rec__tail.html" title="{llog_rec_tail\n|+ lrt_len\l+ lrt_index\l|}" alt="" coords="564,619,665,722"/>
+<area shape="rect" id="node17" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="689,602,791,739"/>
+<area shape="rect" id="node19" href="$structllog__logid.html" title="Identifier for a single log object." alt="" coords="433,619,524,722"/>
+<area shape="rect" id="node24" href="$structllog__cookie.html" title="log cookies are used to reference a specific log file and a record therein" alt="" coords="420,911,532,1049"/>
+<area shape="rect" id="node27" href="$structlu__buf.html" title="Common buffer structure to be passed around for various xattr_{s,g}et() methods." alt="" coords="695,929,769,1031"/>
+<area shape="rect" id="node29" href="$structlu__seq__range.html" title="Describes a range of sequence, lsr_start is included but lsr_end is not in the range..." alt="" coords="793,911,903,1049"/>
+</map>

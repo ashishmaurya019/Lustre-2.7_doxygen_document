@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__osc.html#gacad2bab69d5c52c6248c0b76fcf1e93a" title="Drop &#160;of pages from LRU at most." alt="" coords="231,165,343,195"/>
+<area shape="rect" id="node5" href="$group__cl__io.html#gacde22a6b2da553556081b6f93e8e0f7f" title="Finalize io, by calling cl_io_operations::cio_fini() bottom&#45;to&#45;top." alt="" coords="421,5,499,35"/>
+<area shape="rect" id="node7" href="$group__cl__io.html#ga2a75c8a7a83eb31d6c899da9dc5143b1" title="Initialize io, by calling cl_io_operations::cio_init() top&#45;to&#45;bottom." alt="" coords="421,59,499,88"/>
+<area shape="rect" id="node11" href="$group__cl__object.html#gae84de86afc6e9dbf1f9e1a7219bd202b" title="Acquire an additional reference to the object o." alt="" coords="403,112,517,141"/>
+<area shape="rect" id="node13" href="$group__cl__object.html#ga61a377b8d6ccf182357c959cfdbbcf16" title="Releases a reference on o." alt="" coords="403,165,517,195"/>
+<area shape="rect" id="node17" href="$group__cl__page.html#gae41a4c98faae723b2566a721b6e4b7fb" title="Releases page ownership." alt="" coords="397,219,523,248"/>
+<area shape="rect" id="node24" href="$group__cl__page.html#gafc2fc785c3daf1db46bb250244dfde13" title="Acquires an additional reference to a page." alt="" coords="408,272,512,301"/>
+<area shape="rect" id="node26" href="$group__cl__page.html#ga105c7ed0e326d75ffc75980986186bb7" title="Nonblock version of cl_page_own()." alt="" coords="393,325,527,355"/>
+<area shape="rect" id="node9" href="$group__cl__object.html#ga00ef0f7240b9a7d773a49a77c667f03a" title="Returns the top&#45;object for a given o." alt="" coords="589,59,704,88"/>
+<area shape="rect" id="node15" href="$group__lu.html#ga0d53e3777af7b81492a1178c75b872ea" title="Decrease reference counter on object." alt="" coords="589,165,704,195"/>
+<area shape="rect" id="node19" href="$group__cl__io.html#ga4bb065eb52291173dbda9a0721b1ea2c" title="Returns top&#45;level io." alt="" coords="767,245,847,275"/>
+<area shape="rect" id="node21" href="$group__cl__page.html#gabf5979233c47e0913f8d438d01051ebf" title="returns true, iff page is owned by the given io." alt="" coords="576,271,717,300"/>
+</map>

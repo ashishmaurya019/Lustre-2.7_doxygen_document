@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structnodemap__range__rec.html" title="{nodemap_range_rec\n|+ nrr_start_nid\l+ nrr_end_nid\l+ nrr_padding1\l+ nrr_padding2\l|}" alt="" coords="5,31,163,169"/>
+<area shape="rect" id="node4" href="$structnodemap__global__rec.html" title="{nodemap_global_rec\n|+ ngr_is_active\l+ ngr_padding1\l+ ngr_padding2\l+ ngr_padding3\l+ ngr_padding4\l+ ngr_padding5\l+ ngr_padding6\l|}" alt="" coords="187,5,344,195"/>
+<area shape="rect" id="node6" href="$structnodemap__cluster__rec.html" title="{nodemap_cluster_rec\n|+ ncr_name\l+ ncr_flags\l+ ncr_padding1\l+ ncr_padding2\l+ ncr_squash_uid\l+ ncr_squash_gid\l|}" alt="" coords="368,14,533,186"/>
+<area shape="rect" id="node8" href="$structnodemap__id__rec.html" title="{nodemap_id_rec\n|+ nir_id_fs\l+ nir_padding1\l+ nir_padding2\l+ nir_padding3\l+ nir_padding4\l|}" alt="" coords="557,23,688,177"/>
+</map>

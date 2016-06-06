@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlnet__md__t.html" title="Defines the visible parts of a memory descriptor." alt="" coords="127,157,231,347"/>
+<area shape="rect" id="node4" href="$structlnet__handle__any__t.html" title="Objects maintained by the LNet are accessed through handles." alt="" coords="5,5,149,91"/>
+<area shape="rect" id="node7" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="255,201,393,303"/>
+</map>

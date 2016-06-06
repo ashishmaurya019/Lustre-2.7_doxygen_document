@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structmdt__body.html" title="{mdt_body\n|+ mbo_fid1\l+ mbo_fid2\l+ mbo_handle\l+ mbo_valid\l+ mbo_size\l+ mbo_mtime\l+ mbo_atime\l+ mbo_ctime\l+ mbo_blocks\l+ mbo_ioepoch\l+ mbo_t_state\l+ mbo_fsuid\l+ mbo_fsgid\l+ mbo_capability\l+ mbo_mode\l+ mbo_uid\l+ mbo_gid\l+ mbo_flags\l+ mbo_rdev\l+ mbo_nlink\l+ mbo_unused2\l+ mbo_suppgid\l+ mbo_eadatasize\l+ mbo_aclsize\l+ mbo_max_mdsize\l+ mbo_unused3\l+ mbo_uid_h\l+ mbo_gid_h\l+ mbo_padding_5\l+ mbo_padding_6\l+ mbo_padding_7\l+ mbo_padding_8\l+ mbo_padding_9\l+ mbo_padding_10\l|}" alt="" coords="197,209,352,866"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="108,5,180,125"/>
+<area shape="rect" id="node10" href="$structlmv__oinfo.html" title="{lmv_oinfo\n|+ lmo_fid\l+ lmo_mds\l+ lmo_root\l|}" alt="" coords="69,477,163,597"/>
+<area shape="rect" id="node6" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="231,23,343,108"/>
+<area shape="rect" id="node8" href="$structlmv__stripe__md.html" title="{lmv_stripe_md\n|+ lsm_md_magic\l+ lsm_md_stripe_count\l+ lsm_md_master_mdt_index\l+ lsm_md_hash_type\l+ lsm_md_layout_version\l+ lsm_md_default_count\l+ lsm_md_default_index\l+ lsm_md_pool_name\l+ lsm_md_oinfo\l|}" alt="" coords="5,933,227,1157"/>
+<area shape="rect" id="node13" href="$structmdt__remote__perm.html" title="{mdt_remote_perm\n|+ rp_uid\l+ rp_gid\l+ rp_fsuid\l+ rp_fsuid_h\l+ rp_fsgid\l+ rp_fsgid_h\l+ rp_access_perm\l+ rp_padding\l|}" alt="" coords="332,942,481,1149"/>
+<area shape="rect" id="node15" href="$structlu__buf.html" title="Common buffer structure to be passed around for various xattr_{s,g}et() methods." alt="" coords="505,994,580,1097"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,66,88,169"/>
+<area shape="rect" id="node5" href="$structgni__mem__handle.html" title="{gni_mem_handle\n|+ qword1\l+ qword2\l|}" alt="" coords="169,66,303,169"/>
+<area shape="rect" id="node7" href="$structkgn__mbox__info.html" title="{kgn_mbox_info\n|+ mbx_prev_nid\l+ mbx_prev_purg_nid\l+ mbx_create_conn_memset\l+ mbx_add_purgatory\l+ mbx_detach_of_purgatory\l+ mbx_release_from_purgatory\l+ mbx_release_purg_active_dgram\l+ mbx_nallocs\l+ mbx_nallocs_total\l|}" alt="" coords="327,5,583,229"/>
+</map>

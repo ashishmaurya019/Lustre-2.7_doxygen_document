@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__net.html#ga2bf080a905f488f676248838514e264a" title="Allocate new request structure for import imp and initialize its buffer structure..." alt="" coords="252,5,409,35"/>
+<area shape="rect" id="node5" href="$group__net.html#ga35e91945e5dfe7314c1b31519907929f" title="For requests not from pool, free memory of the request structure." alt="" coords="253,59,408,88"/>
+<area shape="rect" id="node7" href="$group__net.html#gaa1d6f5834629cf755c8f1f0b1a4349de" title="Pack request buffers for network transfer, performing necessary encryption steps..." alt="" coords="252,112,409,141"/>
+<area shape="rect" id="node9" href="$group__req__layout.html#gaf42efe506903884592711902e9276e99" title="This function shrinks the size of the _buffer_ of the pill&#39;s PTLRPC request or..." alt="" coords="459,112,605,141"/>
+<area shape="rect" id="node11" href="$group__net.html#ga8ddfe4bfdb34b2159b8281fb3c6e09a4" title="lustre_msg_buflen &#45; return the length of buffer n in message m " alt="" coords="680,59,824,88"/>
+<area shape="rect" id="node13" href="$group__req__layout.html#gad281812fde0bdb0aaaed8a022e0008f2" title="Returns a non&#45;zero value if the given field is present in the given pill&#39;s PTLRPC..." alt="" coords="653,112,851,141"/>
+<area shape="rect" id="node15" href="$group__req__layout.html#ga35302dbfc2517d692579948a9742d3ba" title="This function returns a non&#45;zero value if the given field is present in the format..." alt="" coords="900,139,1065,168"/>
+</map>

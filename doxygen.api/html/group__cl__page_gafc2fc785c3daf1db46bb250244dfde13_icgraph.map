@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__page__list.html#ga78d782095ec6f5d72e432d0ef0b35b3a" title="Adds a page to a page list." alt="" coords="157,5,288,35"/>
+<area shape="rect" id="node9" href="$group__osc.html#gacad2bab69d5c52c6248c0b76fcf1e93a" title="Drop &#160;of pages from LRU at most." alt="" coords="167,59,279,88"/>
+<area shape="rect" id="node5" href="$group__cl__page__list.html#ga55b5a5a4118185f0a7212299f2a65fac" title="Add a page to the incoming page list of 2&#45;queue." alt="" coords="364,5,484,35"/>
+<area shape="rect" id="node7" href="$group__cl__page__list.html#gac54e35928bc036fca6e31c480285924c" title="Initialize a 2&#45;queue to contain page in its incoming page list." alt="" coords="561,5,719,35"/>
+<area shape="rect" id="node11" href="$group__osc.html#ga084c788be8d116db87ebdd3c273d9a23" title="Scan and try to reclaim sc&#45;&gt;nr_to_scan cached LRU pages." alt="" coords="336,59,512,88"/>
+</map>

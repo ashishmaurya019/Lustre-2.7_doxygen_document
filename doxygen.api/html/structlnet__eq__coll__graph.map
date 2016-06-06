@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,201,88,303"/>
+<area shape="rect" id="node14" href="$structlnet__libhandle.html" title="{lnet_libhandle\n|+ lh_hash_chain\l+ lh_cookie\l|}" alt="" coords="111,542,236,645"/>
+<area shape="rect" id="node5" href="$structlnet__event__t.html" title="Information about an event on a MD." alt="" coords="275,429,387,757"/>
+<area shape="rect" id="node7" href="$structlnet__md__t.html" title="Defines the visible parts of a memory descriptor." alt="" coords="295,157,399,347"/>
+<area shape="rect" id="node9" href="$structlnet__handle__any__t.html" title="Objects maintained by the LNet are accessed through handles." alt="" coords="173,5,317,91"/>
+<area shape="rect" id="node12" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="423,201,561,303"/>
+</map>

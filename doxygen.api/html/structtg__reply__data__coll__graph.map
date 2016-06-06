@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,31,88,134"/>
+<area shape="rect" id="node5" href="$structlsd__reply__data.html" title="{lsd_reply_data\n|+ lrd_transno\l+ lrd_xid\l+ lrd_data\l+ lrd_result\l+ lrd_client_gen\l|}" alt="" coords="169,5,297,160"/>
+</map>

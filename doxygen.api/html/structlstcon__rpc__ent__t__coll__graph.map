@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="5,6,88,109"/>
+<area shape="rect" id="node5" href="$structlst__sid__t.html" title="{lst_sid_t\n|+ ses_nid\l+ ses_stamp\l|}" alt="" coords="169,6,279,109"/>
+<area shape="rect" id="node7" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="303,6,441,109"/>
+</map>

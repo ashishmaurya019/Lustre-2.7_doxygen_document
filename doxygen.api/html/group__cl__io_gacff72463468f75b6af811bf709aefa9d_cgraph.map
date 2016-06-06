@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__io.html#ga2a75c8a7a83eb31d6c899da9dc5143b1" title="Initialize io, by calling cl_io_operations::cio_init() top&#45;to&#45;bottom." alt="" coords="159,5,236,35"/>
+<area shape="rect" id="node5" href="$group__cl__object.html#ga00ef0f7240b9a7d773a49a77c667f03a" title="Returns the top&#45;object for a given o." alt="" coords="285,5,400,35"/>
+</map>

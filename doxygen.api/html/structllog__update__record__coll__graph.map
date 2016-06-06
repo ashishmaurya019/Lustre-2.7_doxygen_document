@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structupdate__records.html" title="{update_records\n|+ ur_master_transno\l+ ur_batchid\l+ ur_flags\l+ ur_index\l+ ur_update_count\l+ ur_param_count\l+ ur_ops\l|}" alt="" coords="5,549,168,739"/>
+<area shape="rect" id="node4" href="$structupdate__ops.html" title="{update_ops\n|+ uops_op\l|}" alt="" coords="37,397,136,483"/>
+<area shape="rect" id="node6" href="$structupdate__op.html" title="{update_op\n|+ uop_fid\l+ uop_type\l+ uop_param_count\l+ uop_params_off\l|}" alt="" coords="9,193,164,330"/>
+<area shape="rect" id="node8" href="$structlu__fid.html" title="File IDentifier." alt="" coords="51,5,123,125"/>
+<area shape="rect" id="node10" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="192,575,293,713"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structhsm__action__item.html" title="{hsm_action_item\n|+ hai_len\l+ hai_action\l+ hai_fid\l+ hai_dfid\l+ hai_extent\l+ hai_cookie\l+ hai_gid\l+ hai_data\l|}" alt="" coords="28,209,167,415"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="5,5,77,125"/>
+<area shape="rect" id="node6" href="$structhsm__extent.html" title="{hsm_extent\n|+ offset\l+ length\l|}" alt="" coords="101,14,205,117"/>
+</map>

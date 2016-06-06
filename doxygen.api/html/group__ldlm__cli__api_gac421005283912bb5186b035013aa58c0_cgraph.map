@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__LDLM.html#ga0f272b273065dc0d916fcb5c6b61d656" title="Converts lock policy from on the wire lock_desc format to local format." alt="" coords="216,5,429,35"/>
+<area shape="rect" id="node5" href="$group__LDLM.html#gafd6a07a826f7d2789696e472dd81adc2" title="Moves LDLM lock lock to another resource." alt="" coords="221,109,424,139"/>
+<area shape="rect" id="node9" href="$group__LDLM.html#ga7ea7aa073d254d8500c07d2664cbecf9" title="Lock a lock and its resource." alt="" coords="487,56,625,85"/>
+<area shape="rect" id="node11" href="$group__LDLM.html#gaf9b19facd1a8bb3cdfcac5047159f15e" title="Unlock a lock and its resource previously locked with lock_res_and_lock." alt="" coords="479,163,633,192"/>
+<area shape="rect" id="node14" href="$group__req__layout.html#ga102a4e6bb0a627ead289f4684971fc28" title="Return the actual PTLRPC buffer length of a request or reply (loc) for the given..." alt="" coords="240,213,405,243"/>
+<area shape="rect" id="node18" href="$group__req__layout.html#ga0d1ad53a1914c35470f3916e4bb4b8fe" title="Trivial wrapper around __req_capsule_get(), that returns the PTLRPC reply buffer..." alt="" coords="232,267,413,296"/>
+<area shape="rect" id="node7" href="$group__LDLM.html#ga083fb1ea92619c4b2e526633c3a486fb" title="Return a reference to resource with given name, creating it if necessary." alt="" coords="483,109,629,139"/>
+<area shape="rect" id="node16" href="$group__net.html#ga8ddfe4bfdb34b2159b8281fb3c6e09a4" title="lustre_msg_buflen &#45; return the length of buffer n in message m " alt="" coords="484,216,628,245"/>
+</map>

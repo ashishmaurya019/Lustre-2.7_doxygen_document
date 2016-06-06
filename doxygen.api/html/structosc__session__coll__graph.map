@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structosc__io.html" title="State maintained by osc layer for each IO context." alt="" coords="2200,5675,2344,5899"/>
+<area shape="rect" id="node4" href="$structosc__lock.html" title="osc&#45;private state of cl_lock." alt="" coords="968,5133,1136,5496"/>
+<area shape="rect" id="node6" href="$structlist__head.html" title="{list_head\n|+ next\l+ prev\l|}" alt="" coords="1446,66,1528,169"/>
+<area shape="rect" id="node13" href="$structcl__lock__slice.html" title="Per&#45;layer part of cl_lock." alt="" coords="220,3891,327,4029"/>
+<area shape="rect" id="node20" href="$structlu__object.html" title="Layer in the layered object." alt="" coords="2072,381,2176,536"/>
+<area shape="rect" id="node23" href="$structcl__lock.html" title="Layered client lock." alt="" coords="226,3073,322,3175"/>
+<area shape="rect" id="node35" href="$structldlm__lock.html" title="LDLM lock structure." alt="" coords="1083,4174,1243,4970"/>
+<area shape="rect" id="node37" href="$structportals__handle.html" title="{portals_handle\n|+ h_link\l+ h_cookie\l+ h_owner\l+ h_ops\l+ h_rcu\l+ h_lock\l+ h_size\l+ h_in\l|}" alt="" coords="404,941,522,1147"/>
+<area shape="rect" id="node46" href="$structobd__export.html" title="Export structure." alt="" coords="715,1379,958,2469"/>
+<area shape="rect" id="node48" href="$structtg__export__data.html" title="Target&#45;specific export data." alt="" coords="703,321,895,597"/>
+<area shape="rect" id="node54" href="$structfilter__export__data.html" title="Filter (oss&#45;side) specific import data." alt="" coords="700,915,876,1173"/>
+<area shape="rect" id="node66" href="$structldlm__interval.html" title="Interval node data for each LDLM_EXTENT lock." alt="" coords="314,407,420,510"/>
+<area shape="rect" id="node78" href="$structldlm__resource.html" title="LDLM resource description." alt="" coords="1079,1717,1242,2131"/>
+<area shape="rect" id="node85" href="$structosc__extent.html" title="osc_extent data to manage dirty pages." alt="" coords="1804,5038,1959,5591"/>
+<area shape="rect" id="node88" href="$structosc__page.html" title="Page state private for osc layer." alt="" coords="1796,4451,1967,4693"/>
+<area shape="rect" id="node91" href="$structcl__page__slice.html" title="Per&#45;layer part of cl_page." alt="" coords="1944,3047,2054,3201"/>
+<area shape="rect" id="node95" href="$structcl__page.html" title="Fields are protected by the lock on struct page, except for atomics and immutables..." alt="" coords="2328,1777,2454,2071"/>
+<area shape="rect" id="node100" href="$structcl__io.html" title="State for io." alt="" coords="2775,2622,2938,3626"/>
+<area shape="rect" id="node111" href="$structcl__lockset.html" title="Lock&#45;set represents a collection of locks, that io needs at a time." alt="" coords="2996,657,3090,759"/>
+<area shape="rect" id="node117" href="$structosc__async__page.html" title="{osc_async_page\n|+ oap_magic\l+ oap_cmd\l+ oap_interrupted\l+ oap_pending_item\l+ oap_rpc_item\l+ oap_obj_off\l+ oap_page_off\l+ oap_async_flags\l+ oap_brw_page\l+ oap_request\l+ oap_cli\l+ oap_obj\l+ oap_lock\l|}" alt="" coords="1939,3813,2096,4107"/>
+<area shape="rect" id="node120" href="$structosc__object.html" title="{osc_object\n|+ oo_cl\l+ oo_oinfo\l+ oo_contended\l+ oo_contention_time\l+ oo_ready_item\l+ oo_hp_ready_item\l+ oo_write_item\l+ oo_read_item\l+ oo_root\l+ oo_hp_exts\l+ oo_urgent_exts\l+ oo_rpc_exts\l+ oo_reading_exts\l+ oo_nr_reads\l+ oo_nr_writes\l+ oo_lock\l+ oo_tree_lock\l+ oo_tree\l+ oo_npages\l+ oo_ol_list\l+ oo_ol_spin\l+ oo_nr_ios\l+ oo_io_waitq\l|}" alt="" coords="2078,2891,2248,3357"/>
+<area shape="rect" id="node134" href="$structcl__io__slice.html" title="IO state private for a layer." alt="" coords="2503,3891,2610,4029"/>
+<area shape="rect" id="node9" href="$structldlm__enqueue__info.html" title="Common ldlm_enqueue parameters." alt="" coords="912,4451,1059,4693"/>
+<area shape="rect" id="node11" href="$structcl__sync__io.html" title="Anchor for synchronous transfer." alt="" coords="1660,967,1772,1121"/>
+<area shape="rect" id="node16" href="$structcl__object.html" title="Sub&#45;class of lu_object with methods common for objects on the client stacks." alt="" coords="2183,984,2298,1104"/>
+<area shape="rect" id="node26" href="$structcl__lock__descr.html" title="Lock description." alt="" coords="1520,1838,1646,2010"/>
+<area shape="rect" id="node18" href="$structcl__object__operations.html" title="Operations implemented for each cl object layer." alt="" coords="2200,312,2363,605"/>
+<area shape="rect" id="node29" href="$structcl__lock__operations.html" title="{cl_lock_operations\n|+ clo_fini\l+ clo_print\l+ clo_enqueue\l+ clo_cancel\l|* clo_enqueue\l* clo_cancel\l}" alt="" coords="58,3047,202,3201"/>
+<area shape="rect" id="node31" href="$structost__lvb.html" title="{ost_lvb\n|+ lvb_size\l+ lvb_mtime\l+ lvb_atime\l+ lvb_ctime\l+ lvb_blocks\l+ lvb_mtime_ns\l+ lvb_atime_ns\l+ lvb_ctime_ns\l+ lvb_padding\l|}" alt="" coords="2567,932,2695,1156"/>
+<area shape="rect" id="node124" href="$structlov__oinfo.html" title="{lov_oinfo\n|+ loi_oi\l+ loi_ost_idx\l+ loi_ost_gen\l+ loi_kms_valid\l+ loi_kms\l+ loi_lvb\l+ loi_ar\l|}" alt="" coords="2564,1829,2684,2019"/>
+<area shape="rect" id="node33" href="$structlustre__handle.html" title="{lustre_handle\n|+ cookie\l|}" alt="" coords="1542,3917,1654,4003"/>
+<area shape="rect" id="node141" href="$structobdo.html" title="{obdo\n|+ o_valid\l+ o_oi\l+ o_parent_seq\l+ o_size\l+ o_mtime\l+ o_atime\l+ o_ctime\l+ o_blocks\l+ o_grant\l+ o_blksize\l+ o_mode\l+ o_uid\l+ o_gid\l+ o_flags\l+ o_nlink\l+ o_parent_oid\l+ o_misc\l+ o_ioepoch\l+ o_stripe_idx\l+ o_parent_ver\l+ o_handle\l+ o_lcookie\l+ o_uid_h\l+ o_gid_h\l+ o_data_version\l+ o_padding_4\l+ o_padding_5\l+ o_padding_6\l|}" alt="" coords="3004,4295,3140,4849"/>
+<area shape="rect" id="node40" href="$structportals__handle__ops.html" title="{portals_handle_ops\n|+ hop_addref\l+ hop_free\l|}" alt="" coords="530,407,679,510"/>
+<area shape="rect" id="node42" href="$unionldlm__policy__data.html" title="{ldlm_policy_data\n|+ l_extent\l+ l_flock\l+ l_inodebits\l|}" alt="" coords="1336,3900,1467,4020"/>
+<area shape="rect" id="node44" href="$structldlm__flock.html" title="{ldlm_flock\n|+ start\l+ end\l+ owner\l+ blocking_owner\l+ blocking_export\l+ blocking_refs\l+ pid\l|}" alt="" coords="1384,3029,1526,3219"/>
+<area shape="rect" id="node51" href="$structcfs__hash.html" title="cfs_hash is a hash&#45;table implementation for general purpose, it can support: ." alt="" coords="900,811,1063,1277"/>
+<area shape="rect" id="node59" href="$structhlist__node.html" title="{hlist_node\n|+ next\l+ pprev\l|}" alt="" coords="1138,993,1228,1095"/>
+<area shape="rect" id="node62" href="$structldlm__extent.html" title="{ldlm_extent\n|+ start\l+ end\l+ gid\l|}" alt="" coords="1256,3064,1360,3184"/>
+<area shape="rect" id="node64" href="$structldlm__inodebits.html" title="{ldlm_inodebits\n|+ bits\l|}" alt="" coords="1550,3081,1667,3167"/>
+<area shape="rect" id="node69" href="$structinterval__node.html" title="{interval_node\n|+ in_left\l+ in_right\l+ in_parent\l+ in_color\l+ in_intree\l+ in_res1\l+ in_res2\l+ in_max_high\l+ in_extent\l|}" alt="" coords="156,5,274,229"/>
+<area shape="rect" id="node74" href="$structlu__ref.html" title="{lu_ref\n||}" alt="" coords="1366,1001,1424,1087"/>
+<area shape="rect" id="node104" href="$structcl__2queue.html" title="A 2&#45;queue of pages." alt="" coords="2907,1873,2998,1975"/>
+<area shape="rect" id="node108" href="$structlu__fid.html" title="File IDentifier." alt="" coords="3247,399,3319,519"/>
+<area shape="rect" id="node127" href="$structost__id.html" title="OST object IDentifier." alt="" coords="3308,967,3386,1121"/>
+<area shape="rect" id="node114" href="$structcl__io__rw__common.html" title="{cl_io_rw_common\n|+ crw_pos\l+ crw_count\l+ crw_nonblock\l|}" alt="" coords="3022,1864,3160,1984"/>
+<area shape="rect" id="node146" href="$structllog__logid.html" title="Identifier for a single log object." alt="" coords="3291,2494,3382,2597"/>
+<area shape="rect" id="node132" href="$structosc__io_1_1osc__async__cbargs.html" title="{osc_io::osc_async_cbargs\n|+ opc_rpc_sent\l+ opc_rc\l+ opc_sync\l|}" alt="" coords="2176,5255,2368,5375"/>
+<area shape="rect" id="node139" href="$structcl__io__operations.html" title="Per&#45;layer io operations." alt="" coords="2476,2977,2636,3271"/>
+<area shape="rect" id="node144" href="$structllog__cookie.html" title="log cookies are used to reference a specific log file and a record therein" alt="" coords="3212,3651,3324,3789"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlstcon__node__ent__t.html" title="{lstcon_node_ent_t\n|+ nde_id\l+ nde_state\l|}" alt="" coords="5,202,152,305"/>
+<area shape="rect" id="node4" href="$structlnet__process__id__t.html" title="Global process ID." alt="" coords="9,6,148,109"/>
+<area shape="rect" id="node6" href="$structlstcon__ndlist__ent__t.html" title="{lstcon_ndlist_ent_t\n|+ nle_nnode\l+ nle_nactive\l+ nle_nbusy\l+ nle_ndown\l+ nle_nunknown\l|}" alt="" coords="176,176,325,331"/>
+</map>

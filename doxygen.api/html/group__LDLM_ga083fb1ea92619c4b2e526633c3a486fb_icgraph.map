@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__ldlm__cli__api.html#ga56914f0205e9d377eeceb78f8db71f66" title="Cancel all locks on a resource that have 0 readers/writers." alt="" coords="200,5,443,35"/>
+<area shape="rect" id="node7" href="$group__LDLM.html#gafd6a07a826f7d2789696e472dd81adc2" title="Moves LDLM lock lock to another resource." alt="" coords="220,59,423,88"/>
+<area shape="rect" id="node13" href="$group__LDLM.html#ga1373811e4c4edbb039f1da1ca7947b03" title="Attempt to find a lock with specified properties." alt="" coords="255,112,388,141"/>
+<area shape="rect" id="node5" href="$group__ldlm__cli__api.html#ga8067f82d5a14a84d1c103d2de469501a" title="Cancel all locks on a namespace (or a specific resource, if given) that have 0 readers/writers..." alt="" coords="491,5,667,35"/>
+<area shape="rect" id="node9" href="$group__ldlm__cli__api.html#gac421005283912bb5186b035013aa58c0" title="Finishing portion of client lock enqueue code." alt="" coords="497,59,660,88"/>
+<area shape="rect" id="node11" href="$group__ldlm__cli__api.html#gac3edcad1b11e283d6ef8455a2b598b07" title="Client&#45;side lock enqueue." alt="" coords="715,59,851,88"/>
+</map>

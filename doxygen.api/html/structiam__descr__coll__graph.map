@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structiam__leaf__operations.html" title="{iam_leaf_operations\n|+ init\l+ init_new\l+ fini\l+ at_end\l+ start\l+ next\l+ ikey\l+ key\l+ rec\l+ key_set\l+ rec_set\l+ rec_get\l+ key_cmp\l+ key_eq\l+ rec_eq\l+ key_size\l+ lookup\l+ ilookup\l+ can_add\l+ rec_add\l+ rec_del\l+ split\l+ leaf_empty\l|}" alt="" coords="5,157,160,624"/>
+<area shape="rect" id="node4" href="$structiam__operations.html" title="{iam_operations\n|+ id_root_ptr\l+ id_node_check\l+ id_node_load\l+ id_node_init\l+ id_node_read\l+ id_ikeycmp\l+ id_root_inc\l+ id_ipd_alloc\l+ id_ipd_free\l+ id_name\l|}" alt="" coords="184,270,317,511"/>
+<area shape="rect" id="node6" href="$structiam__path__descr.html" title="{iam_path_descr\n|+ ipd_key_scratch\l|}" alt="" coords="179,5,323,91"/>
+</map>

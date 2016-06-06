@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlquota__slv__rec.html" title="{lquota_slv_rec\n|+ qsr_granted\l|}" alt="" coords="5,32,123,117"/>
+<area shape="rect" id="node4" href="$structlquota__acct__rec.html" title="{lquota_acct_rec\n|+ bspace\l+ ispace\l|}" alt="" coords="147,23,277,126"/>
+<area shape="rect" id="node6" href="$structlquota__glb__rec.html" title="{lquota_glb_rec\n|+ qbr_hardlimit\l+ qbr_softlimit\l+ qbr_time\l+ qbr_granted\l|}" alt="" coords="301,6,424,143"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlmv__mds__md__v1.html" title="{lmv_mds_md_v1\n|+ lmv_magic\l+ lmv_stripe_count\l+ lmv_master_mdt_index\l+ lmv_hash_type\l+ lmv_layout_version\l+ lmv_padding1\l+ lmv_padding2\l+ lmv_padding3\l+ lmv_pool_name\l+ lmv_stripe_fids\l|}" alt="" coords="5,193,200,434"/>
+<area shape="rect" id="node4" href="$structlu__fid.html" title="File IDentifier." alt="" coords="67,5,139,125"/>
+</map>

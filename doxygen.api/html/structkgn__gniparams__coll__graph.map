@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structgni__smsg__attr.html" title="{gni_smsg_attr\n|+ msg_type\l+ msg_buffer\l+ buff_size\l+ mem_hndl\l+ mbox_offset\l+ mbox_maxcredit\l+ msg_maxsize\l|}" alt="" coords="5,176,155,365"/>
+<area shape="rect" id="node4" href="$structgni__mem__handle.html" title="{gni_mem_handle\n|+ qword1\l+ qword2\l|}" alt="" coords="13,6,147,109"/>
+</map>

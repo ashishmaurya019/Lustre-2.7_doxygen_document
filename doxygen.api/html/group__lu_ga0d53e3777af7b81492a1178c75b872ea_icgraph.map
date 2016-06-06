@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__cl__object.html#ga61a377b8d6ccf182357c959cfdbbcf16" title="Releases a reference on o." alt="" coords="200,5,315,35"/>
+<area shape="rect" id="node9" href="$group__dt.html#ga311aa8b791e51a13353036585b1236a4" title="Walk key/record pairs of an index and copy them into 4KB containers to be transferred..." alt="" coords="199,59,316,88"/>
+<area shape="rect" id="node11" href="$group__dt.html#ga589d233b6276fc177086429e37221e36" title="Open dt object named filename from dirname directory." alt="" coords="197,112,317,141"/>
+<area shape="rect" id="node13" href="$group__log.html#gaf0dee2455ecbe5cbeeec044344224613" title="Read the special file which contains the list of llog catalogs IDs." alt="" coords="176,165,339,195"/>
+<area shape="rect" id="node15" href="$group__log.html#ga4b308f3bee04638c301ba0bead3ad070" title="Write the special file which contains the list of llog catalogs IDs." alt="" coords="177,219,337,248"/>
+<area shape="rect" id="node17" href="$group__lu.html#ga54cb269068bb3767dde66b0bb58afb70" title="Find object with given fid, and return its slice belonging to given device." alt="" coords="181,272,333,301"/>
+<area shape="rect" id="node21" href="$group__lu.html#ga48ae307342778b2ffb56cae3dad5d012" title="Put object and don&#39;t keep in cache." alt="" coords="168,325,347,355"/>
+<area shape="rect" id="node5" href="$group__osc.html#gacad2bab69d5c52c6248c0b76fcf1e93a" title="Drop &#160;of pages from LRU at most." alt="" coords="421,5,533,35"/>
+<area shape="rect" id="node7" href="$group__osc.html#ga084c788be8d116db87ebdd3c273d9a23" title="Scan and try to reclaim sc&#45;&gt;nr_to_scan cached LRU pages." alt="" coords="608,5,784,35"/>
+<area shape="rect" id="node19" href="$group__cl__object.html#gacc02a64c0c65d5fab9a6fafc83771acd" title="Returns a cl_object with a given fid." alt="" coords="420,272,535,301"/>
+<area shape="rect" id="node23" href="$group__dt.html#gacddd08c8c9a92143811432373ca8a057" title="Initialize local OID storage for required sequence." alt="" coords="395,325,560,355"/>
+</map>

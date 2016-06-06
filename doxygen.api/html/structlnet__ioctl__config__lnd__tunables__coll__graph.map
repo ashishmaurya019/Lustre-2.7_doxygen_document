@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structlnet__ioctl__config__o2iblnd__tunables.html" title="{lnet_ioctl_config_o2iblnd_tunables\n|+ lnd_version\l+ lnd_peercredits_hiw\l+ lnd_map_on_demand\l+ lnd_concurrent_sends\l+ lnd_fmr_pool_size\l+ lnd_fmr_flush_trigger\l+ lnd_fmr_cache\l+ pad\l|}" alt="" coords="5,6,256,213"/>
+<area shape="rect" id="node4" href="$structlnet__ioctl__config__lnd__cmn__tunables.html" title="{lnet_ioctl_config_lnd_cmn_tunables\n|+ lct_version\l+ lct_peer_timeout\l+ lct_peer_tx_credits\l+ lct_peer_rtr_credits\l+ lct_max_tx_credits\l|}" alt="" coords="280,32,539,187"/>
+</map>

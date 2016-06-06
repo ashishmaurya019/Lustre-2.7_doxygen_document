@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structll__fid.html" title="{ll_fid\n|+ id\l+ generation\l+ f_type\l|}" alt="" coords="5,15,115,135"/>
+<area shape="rect" id="node4" href="$structllog__rec__tail.html" title="{llog_rec_tail\n|+ lrt_len\l+ lrt_index\l|}" alt="" coords="139,23,240,126"/>
+<area shape="rect" id="node6" href="$structllog__rec__hdr.html" title="Log record header &#45; stored in little endian order." alt="" coords="264,6,365,143"/>
+</map>
